@@ -1,0 +1,13 @@
+Navigate to the EDOPro folder files
+Localte Expansions
+Move all .cdb into here and replace the ones already there
+
+Next
+
+Paste the .conf file into the repositories/lflists and paste the file here (this is the custom ban list)
+
+Next
+
+Locate the textures folder
+Paste the ot.png here
+and replace the original ot.png

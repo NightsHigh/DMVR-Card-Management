@@ -1,0 +1,2610 @@
+
+	Tier	Card Type	Name	Restriction	Remarks
+3
+	White	Monster/Effect	Earthbound Immortal Aslla Piscu	Limited
+4
+	White	Monster/Effect	Earthbound Immortal Ccapac Apu	Limited
+5
+	White	Monster/Effect	Earthbound Immortal Uru	Limited
+6
+	White	Monster/Effect	Earthbound Immortal Wiraqocha Rasca	Limited
+7
+	White	Monster/Effect	Hamon, Lord of Striking Thunder	Limited
+8
+	White	Monster/Effect	Obelisk the Tormentor	Limited
+9
+	White	Monster/Effect	Raviel, Lord of Phantasms	Limited
+10
+	White	Monster/Effect	Slifer the Sky Dragon	Limited
+11
+	White	Monster/Effect	The Wicked Avatar	Limited
+12
+	White	Monster/Effect	The Wicked Dreadroot	Limited
+13
+	White	Monster/Effect	The Wicked Eraser	Limited
+14
+	White	Monster/Effect	The Winged Dragon of Ra	Limited
+15
+	White	Monster/Effect	Uria, Lord of Searing Flames	Limited
+16
+	Free	Spell	Fist of Fate	Unlimited
+17
+	Free	Spell	Thunderforce Attack	Unlimited
+18
+	Free	Spell	Thunderspeed Summon	Unlimited
+19
+
+Not Reviewed and Not Available for Custom Decks
+
+20
+	Tier	Card Type	Name	Restriction	Remarks
+21
+	Not Available	Monster/Effect	Adamancipator Crystal - Raptite	Forbidden
+22
+	Not Available	Monster/Effect	Armed Dragon Thunder LV10	Forbidden
+23
+	Not Available	Monster/Effect	Astrograph Sorcerer (Anime)	Forbidden
+24
+	Not Available	Monster/Effect	Bowganian (Anime)	Forbidden
+25
+	Not Available	Monster/Effect	Divine Serpent Geh (Anime)	Forbidden
+26
+	Not Available	Monster/Effect	Fluffal Octopus	Forbidden
+27
+	Not Available	Monster/Effect	Gandora Giga-Rays the Dragon of Destruction	Forbidden
+28
+	Not Available	Monster/Effect	Kaiser Glider - Golden Burst	Forbidden
+29
+	Not Available	Monster/Effect	Orichalcos Aristeros (Anime)	Forbidden
+30
+	Not Available	Monster/Effect	Orichalcos Dexia (Anime)	Forbidden
+31
+	Not Available	Monster/Effect	Orichalcos Gigas (Anime)	Forbidden
+32
+	Not Available	Monster/Effect	Orichalcos Kyutora (Anime)	Forbidden
+33
+	Not Available	Monster/Effect	Orichalcos Malevolence (Anime)	Forbidden
+34
+	Not Available	Monster/Effect	Orichalcos Shunoros (Anime)	Forbidden
+35
+	Not Available	Monster/Effect	Red-Eyes Darkness Metal Dragon	Forbidden
+36
+	Not Available	Monster/Effect	Skull kraken	Forbidden
+37
+	Not Available	Monster/Effect	Super Armored Robot Armed Black Iron "C"	Forbidden
+38
+	Not Available	Monster/Ritual	Blue-Eyes Chaos MAX Dragon (Anime)	Forbidden
+39
+	Not Available	Monster/Ritual	Blue-Eyes Chaos MAX Dragon	Forbidden
+40
+	Not Available	Monster/Fusion	Elemental HERO Divine Neos	Forbidden
+41
+	Not Available	Monster/Fusion	Elemental HERO Neos Kluger	Forbidden
+42
+	Not Available	Monster/Fusion	Neos Wiseman (Anime)	Forbidden
+43
+	Not Available	Monster/Synchro	Adamancipator Risen - Raptite	Forbidden
+44
+	Not Available	Monster/Xyz	Red-Eyes Flare Metal Dragon	Forbidden
+45
+	Not Available	Monster/Xyz	Toadally Awesome	Forbidden
+46
+	Not Available	Spell	Dark Contract with Patent License	Forbidden
+47
+	Not Available	Spell	Dark Contract with the Entities	Forbidden
+48
+	Not Available	Spell	Dark Contract with the Yamimakai	Forbidden
+49
+	Not Available	Spell	Forbidden Dark Contract with the Swamp King	Forbidden
+50
+	Not Available	Spell	Impact Revive (Anime)	Forbidden
+51
+	Not Available	Spell	Malefic World	Forbidden
+52
+	Not Available	Spell	Orichalcos Deuteros (Anime)	Forbidden
+53
+	Not Available	Spell	Orichalcos Tritos (Anime)	Forbidden
+54
+	Not Available	Spell	Spider Web	Forbidden
+55
+	Not Available	Spell	The Seal of Orichalcos (Anime)	Forbidden
+56
+	Not Available	Trap	Contract Laundering	Forbidden
+57
+	Not Available	Trap	D/D/D Headhunt	Forbidden
+58
+	Not Available	Trap	Dragon's Bind	Forbidden
+59
+	Not Available	Trap	Follow Wing	Forbidden
+60
+	Not Available	Trap	Exchange of the Spirit (Pre-Errata)	Forbidden
+61
+	Not Available	Trap	Magicians' Combination	Forbidden
+62
+			Banned
+63
+	Tier	Card Type	Name	Restriction	Remarks
+64
+	Forbidden	Monster/Normal	Exodia the Forbidden One (DMVR)	Forbidden
+65
+	Forbidden	Monster/Effect	Advanced Crystal Beast Amber Mammoth (Anime)	Forbidden
+66
+	Forbidden	Monster/Effect	Advanced Crystal Beast Amethyst Cat (Anime)	Forbidden
+67
+	Forbidden	Monster/Effect	Advanced Crystal Beast Cobalt Eagle (Anime)	Forbidden
+68
+	Forbidden	Monster/Effect	Advanced Crystal Beast Emerald Tortoise (Anime)	Forbidden
+69
+	Forbidden	Monster/Effect	Advanced Crystal Beast Ruby Carbuncle (Anime)	Forbidden
+70
+	Forbidden	Monster/Effect	Advanced Crystal Beast Sapphire Pegasus (Anime)	Forbidden
+71
+	Forbidden	Monster/Effect	Advanced Crystal Beast Topaz Tiger (Anime)	Forbidden
+72
+	Forbidden	Monster/Effect	Archlord Kristya	Forbidden	Was Red and Limited
+73
+	Forbidden	Monster/Effect	Armed Dragon Thunder LV7	Forbidden
+74
+	Forbidden	Monster/Effect	Artifact Scythe	Forbidden	Was Blue and Limited
+75
+	Forbidden	Monster/Effect	Block Dragon	Forbidden
+76
+	Forbidden	Monster/Effect	Cannon Soldier	Forbidden
+77
+	Forbidden	Monster/Effect	Crimson Resonator	Forbidden
+78
+	Forbidden	Monster/Effect	Dark Simorgh	Forbidden
+79
+	Forbidden	Monster/Effect	Destiny HERO - Plasma	Forbidden	Was Red and Limited
+80
+	Forbidden	Monster/Effect	Fossil Dyna Pachycephalo	Forbidden	Was Red
+81
+	Forbidden	Monster/Effect	Gandora-X the Dragon of Demolition	Forbidden
+82
+	Forbidden	Monster/Effect	Gandora-X the Dragon of Demolition (Anime)	Forbidden
+83
+	Forbidden	Monster/Effect	Majestic Radiant Dragon	Forbidden
+84
+	Forbidden	Monster/Effect	Maxx "C"	Forbidden	New
+85
+	Forbidden	Monster/Effect	Mind Master	Forbidden
+86
+	Forbidden	Monster/Effect	Naturia Bamboo Shoot	Forbidden
+87
+	Forbidden	Monster/Effect	Raviel, Lord of Phantasms - Shimmering Scraper	Forbidden
+88
+	Forbidden	Monster/Effect	Spell canceller	Forbidden	New
+89
+	Forbidden	Monster/Effect	The Legendary Fisherman III	Forbidden
+90
+	Forbidden	Monster/Effect	The Winged Dragon of Ra - Sphere Mode	Forbidden
+91
+	Forbidden	Monster/Effect	Toon Cannon Soldier	Forbidden
+92
+	Forbidden	Monster/Effect	Tualatin	Forbidden	New
+93
+	Forbidden	Monster/Effect	Vanity’s Fiend	Unlimited	Was Blue
+94
+	Forbidden	Monster/Effect	Vanity’s Ruler	Unlimited	Was Blue
+95
+	Forbidden	Monster/Effect	ZS - Ouroboros Sage (Anime)	Forbidden
+96
+	Forbidden	Monster/Pendulum/Effect	Odd-Eyes Pendulum Dragon	Forbidden
+97
+	Forbidden	Monster/Pendulum/Effect	Performapal Cheermole	Forbidden
+98
+	Forbidden	Monster/Pendulum/Effect	Performapal Turn Toad	Forbidden
+99
+	Forbidden	Monster/Pendulum/Effect	Performapal Turn Toad (Anime)	Forbidden
+100
+	Forbidden	Monster/Pendulum/Effect	Performapal Whim Witch	Forbidden
+101
+	Forbidden	Monster/Pendulum/Effect	Stargazer Magician	Forbidden
+102
+	Forbidden	Monster/Pendulum/Effect	Stargazer Magician (Anime)	Forbidden
+103
+	Forbidden	Monster/Pendulum/Effect	Timegazer Magician	Forbidden
+104
+	Forbidden	Monster/Pendulum/Effect	Timegazer Magician (Anime)	Forbidden
+105
+	Forbidden	Monster/Ritual	Gate Guardian (Ritual)	Forbidden
+106
+	Forbidden	Monster/Ritual	Serpent Night Dragon (Ritual)	Forbidden
+107
+	Forbidden	Spell	Akashic Record (Anime)	Forbidden
+108
+	Forbidden	Spell	Beckon to Darkness (Anime)	Forbidden
+109
+	Forbidden	Spell	Card Loan (Anime)	Forbidden
+110
+	Forbidden	Spell	Card of Demise (Anime)	Forbidden
+111
+	Forbidden	Spell	Card of Safe Return (Anime)	Forbidden
+112
+	Forbidden	Spell	Card of Sanctity (Anime)	Forbidden
+113
+	Forbidden	Spell	Card of Variation (Anime)	Forbidden
+114
+	Forbidden	Spell	Cards for Black Feathers (Anime)	Forbidden
+115
+	Forbidden	Spell	Cauldron of the Old Man	Forbidden
+116
+	Forbidden	Spell	Chain Energy	Forbidden
+117
+	Forbidden	Spell	Code Change (Anime)	Forbidden
+118
+	Forbidden	Spell	Cold Wave	Forbidden	New
+119
+	Forbidden	Spell	Cosmo Queen's Prayer (VG)	Forbidden
+120
+	Forbidden	Spell	Cross Draw of Destiny (Anime)	Forbidden
+121
+	Forbidden	Spell	Crystal Abundance	Forbidden
+122
+	Forbidden	Spell	Dimension Fusion	Forbidden
+123
+	Forbidden	Spell	Dragged Down into the Grave (Anime)	Forbidden
+124
+	Forbidden	Spell	Dragon Heart (Anime)	Forbidden
+125
+	Forbidden	Spell	Ecole de Zone (VG)	Forbidden
+126
+	Forbidden	Spell	Effect Shut (Anime)	Forbidden
+127
+	Forbidden	Spell	Future Fusion (Anime)	Forbidden
+128
+	Forbidden	Spell	Golden Castle of Stromberg	Forbidden
+129
+	Forbidden	Spell	Grief Tablet (Anime)	Forbidden
+130
+	Forbidden	Spell	Hand Destruction (Anime)	Forbidden
+131
+	Forbidden	Spell	Heaven's Lost Property (Manga)	Forbidden
+132
+	Forbidden	Spell	Heat Wave	Forbidden	Was Blue
+133
+	Forbidden	Spell	Madolche Salon	Forbidden
+134
+	Forbidden	Spell	Mass Driver	Forbidden
+135
+	Forbidden	Spell	Metamorphosis	Forbidden
+136
+	Forbidden	Spell	Painful Choice	Forbidden
+137
+	Forbidden	Spell	Photon Veil (Anime)	Forbidden
+138
+	Forbidden	Spell	Quiet Life	Forbidden	Was Blue
+139
+	Forbidden	Spell	Revival of Sennen Genjin (VG)	Forbidden
+140
+	Forbidden	Spell	Revived Serpent Night Dragon (VG)	Forbidden
+141
+	Forbidden	Spell	Roll of Fate (Anime)	Forbidden
+142
+	Forbidden	Spell	Spellbook Inside the Pot (Manga)	Forbidden
+143
+	Forbidden	Spell	Spiral Fusion	Forbidden
+144
+	Forbidden	Spell	Stage Select (Anime)	Forbidden
+145
+	Forbidden	Spell	Subspace Battle (Anime)	Forbidden
+146
+	Forbidden	Spell	Ties of the Brethren	Forbidden
+147
+	Forbidden	Spell	Trap Request (Anime)	Forbidden
+148
+	Forbidden	Spell	Turn Jump (Anime)	Forbidden
+149
+	Forbidden	Trap	Annihilating Light (Manga)	Forbidden
+150
+	Forbidden	Trap	Anti-Spell Fragrance	Forbidden	Was Red
+151
+	Forbidden	Trap	Brilliant Spark	Forbidden
+152
+	Forbidden	Trap	Chain Close (VG)	Forbidden	New
+153
+	Forbidden	Trap	Cipher Spectrum	Forbidden
+154
+	Forbidden	Trap	Dimensional Barrier	Forbidden	Was Red
+155
+	Forbidden	Trap	Double Cipher	Forbidden
+156
+	Forbidden	Trap	Evil 1 (Anime)	Forbidden
+157
+	Forbidden	Trap	Gravity Bind	Forbidden
+158
+	Forbidden	Trap	Harpie's Feather Storm	Forbidden
+159
+	Forbidden	Trap	Imperial Order	Forbidden
+160
+	Forbidden	Trap	Mind Control (Anime)	Forbidden
+161
+	Forbidden	Trap	Nightmare's Chains (Anime)	Forbidden
+162
+	Forbidden	Trap	Non Aggression Area	Forbidden
+163
+	Forbidden	Trap	Penalty Game	Forbidden
+164
+	Forbidden	Trap	Red-Eyes Burn	Forbidden	Was incorrectly labeled as a "Spell"
+165
+	Forbidden	Trap	Summon Limit	Forbidden	Was Red and Limited
+166
+	Forbidden	Trap	Super Soldier Rebirth	Forbidden
+167
+	Forbidden	Trap	Take One Chance (Anime)	Forbidden
+168
+	Forbidden	Trap	Zero Hole (5D's) (Anime)	Forbidden
+169
+	Forbidden	Trap	Xyz Discharge (Anime)	Forbidden
+170
+			Ultimates
+171
+	Tier	Card Type	Name	Restriction	Remarks
+172
+	Ultimates	Monster/Effect	Apprentice Illusion Magician	Limited
+173
+	Ultimates	Monster/Effect	Beginning Knight	Limited
+174
+	Ultimates	Monster/Effect	Black Luster Soldier - Envoy of the Beginning	Limited
+175
+	Ultimates	Monster/Effect	Cyber Jar	Limited
+176
+	Ultimates	Monster/Effect	Cyber-Stein	Limited
+177
+	Ultimates	Monster/Effect	Cyberdark Chimera	Limited	Was Structure Only
+178
+	Ultimates	Monster/Effect	Dark Armed Dragon	Limited
+179
+	Ultimates	Monster/Effect	Dark Honest	Limited
+180
+	Ultimates	Monster/Effect	Desperado Barrel Dragon	Limited
+181
+	Ultimates	Monster/Effect	Divine Serpent Geh	Limited
+182
+	Ultimates	Monster/Effect	Dragonmaid Tinkhec	Limited
+183
+	Ultimates	Monster/Effect	Evening Twilight Knight	Limited
+184
+	Ultimates	Monster/Effect	Fire King High Avatar Garunix	Limited
+185
+	Ultimates	Monster/Effect	Fire Princess	Limited
+186
+	Ultimates	Monster/Effect	Honest	Limited
+187
+	Ultimates	Monster/Effect	Palladium Oracle Mahad	Limited
+188
+	Ultimates	Monster/Effect	Rapid-Fire Magician	Limited
+189
+	Ultimates	Monster/Effect	Royal Magical Library	Limited
+190
+	Ultimates	Monster/Effect	Speedroid Terrortop	Limited
+191
+	Ultimates	Monster/Effect	The Legendary Exodia Incarnate	Limited
+192
+	Ultimates	Monster/Effect	The Legendary Fisherman III (Anime)	Limited
+193
+	Ultimates	Monster/Effect	Toon Black Luster Soldier	Limited
+194
+	Ultimates	Monster/Effect	V Salamander	Limited
+195
+	Ultimates	Monster/Effect	ZS - Armed Sage	Limited
+196
+	Ultimates	Monster/Effect	ZS - Ascended Sage	Limited
+197
+	Ultimates	Monster/Effect	ZS - Ouroboros Sage	Limited
+198
+	Ultimates	Monster/Effect	Grapha, Dragon Lord of Dark World	Semi-Limited
+199
+	Ultimates	Monster/Effect	Armed Dragon LV10 - White	Unlimited
+200
+	Ultimates	Monster/Effect	Astral Kuriboh	Unlimited
+201
+	Ultimates	Monster/Effect	Blue-Eyes Alternative White Dragon	Unlimited	Was Limited
+202
+	Ultimates	Monster/Effect	BM-4 Blast Spider	Unlimited
+203
+	Ultimates	Monster/Effect	Dark Eradicator Warlock	Unlimited
+204
+	Ultimates	Monster/Effect	Envoy of Chaos	Unlimited
+205
+	Ultimates	Monster/Effect	Infernity Destroyer	Unlimited
+206
+	Ultimates	Monster/Effect	Lava Golem	Unlimited
+207
+	Ultimates	Monster/Effect	Lonefire Blossom	Unlimited
+208
+	Ultimates	Monster/Effect	Magical Scientist	Unlimited
+209
+	Ultimates	Monster/Effect	Marshmallon	Unlimited
+210
+	Ultimates	Monster/Effect	Metamorphosed Insect Queen	Unlimited
+211
+	Ultimates	Monster/Effect	Mist Valley Apex Avian	Unlimited
+212
+	Ultimates	Monster/Effect	Moulinglacia the Elemental Lord	Unlimited
+213
+	Ultimates	Monster/Effect	The Phantom Knights of Ancient Cloak	Unlimited
+214
+	Ultimates	Monster/Effect	Volcanic Scattershot	Unlimited
+215
+	Ultimates	Monster/Effect	Wightprince	Unlimited
+216
+	Ultimates	Monster/Effect	Yosenju Oyam	Unlimited
+217
+	Ultimates	Monster/Effect	ZW - Pegasus Twin Saber	Unlimited
+218
+	Ultimates	Spell	Card of Safe Return	Limited
+219
+	Ultimates	Spell	Chain Strike	Limited
+220
+	Ultimates	Spell	D - Force	Limited
+221
+	Ultimates	Spell	Dark Room of Nightmare	Limited
+222
+	Ultimates	Spell	Giant Trunade	Limited
+223
+	Ultimates	Spell	Graceful Charity	Limited
+224
+	Ultimates	Spell	Harpie's Feather Duster	Limited
+225
+	Ultimates	Spell	Heavy Storm	Limited
+226
+	Ultimates	Spell	Hidden Temples of Necrovalley	Limited
+227
+	Ultimates	Spell	Invocation	Limited
+228
+	Ultimates	Spell	Lair of Darkness	Limited
+229
+	Ultimates	Spell	Last Will	Limited
+230
+	Ultimates	Spell	Majestic Absorption	Limited
+231
+	Ultimates	Spell	Mask Change II	Limited
+232
+	Ultimates	Spell	Monster Reborn	Limited
+233
+	Ultimates	Spell	Monster Reborn (Alternative Artwork)	Limited
+234
+	Ultimates	Spell	Ojama Delta Thunder!!	Limited
+235
+	Ultimates	Spell	Raigeki	Limited
+236
+	Ultimates	Spell	Shadow Toon	Limited
+237
+	Ultimates	Spell	Sky Striker Mecha Modules - Multirole	Limited
+238
+	Ultimates	Spell	Soul Charge (Anime)	Limited
+239
+	Ultimates	Spell	Super Polymerization	Limited
+240
+	Ultimates	Spell	Temple of the Kings (Anime)	Limited
+241
+	Ultimates	Spell	Limiter Removal	Semi-Limited
+242
+	Ultimates	Spell	Ancient Gear Catapult	Unlimited
+243
+	Ultimates	Spell	Anti-Magic Arrows	Unlimited
+244
+	Ultimates	Spell	Battle Fusion	Unlimited
+245
+	Ultimates	Spell	Bounce Spell	Unlimited
+246
+	Ultimates	Spell	Change of Heart	Unlimited
+247
+	Ultimates	Spell	Cocoon of Ultra Evolution	Unlimited
+248
+	Ultimates	Spell	Comic Hand	Unlimited
+249
+	Ultimates	Spell	Cyberload Fusion	Unlimited
+250
+	Ultimates	Spell	Dark Sanctuary	Unlimited
+251
+	Ultimates	Spell	Flames of the Archfiend (Manga)	Unlimited
+252
+	Ultimates	Spell	Form Change	Unlimited
+253
+	Ultimates	Spell	Grand Spiritual Art - Ichirin	Unlimited
+254
+	Ultimates	Spell	Heavy Metal Raiders	Unlimited
+255
+	Ultimates	Spell	Illusion Gate	Unlimited
+256
+	Ultimates	Spell	Lightning Storm	Unlimited
+257
+	Ultimates	Spell	Lost World	Unlimited
+258
+	Ultimates	Spell	Meteor of Destruction	Unlimited
+259
+	Ultimates	Spell	Necrovalley	Unlimited
+260
+	Ultimates	Spell	Overload Fusion	Unlimited
+261
+	Ultimates	Spell	Pacifis, the Phantasm City	Unlimited	Was Blue
+262
+	Ultimates	Spell	Piercing the Darkness	Unlimited
+263
+	Ultimates	Spell	Pot of Prosperity	Unlimited
+264
+	Ultimates	Spell	Rainbow Bridge	Unlimited
+265
+	Ultimates	Spell	Rekindling	Unlimited
+266
+	Ultimates	Spell	Return of the Dragon Lords	Unlimited
+267
+	Ultimates	Spell	Royal Tribute	Unlimited
+268
+	Ultimates	Spell	Sky Striker Mecha - Widow Anchor	Unlimited
+269
+	Ultimates	Spell	Small World	Unlimited
+270
+	Ultimates	Spell	Snatch Steal	Unlimited
+271
+	Ultimates	Spell	Spirit Illusion (Anime)	Unlimited
+272
+	Ultimates	Spell	The Forceful Sentry	Unlimited
+273
+	Ultimates	Spell	Toon Kingdom	Unlimited
+274
+	Ultimates	Spell	Tremendous Fire	Unlimited
+275
+	Ultimates	Spell	White Veil	Unlimited
+276
+	Ultimates	Spell	White Veil (Anime)	Unlimited
+277
+	Ultimates	Trap	Backfire	Limited
+278
+	Ultimates	Trap	Bad Reaction to Simochi	Limited
+279
+	Ultimates	Trap	Black Sonic	Limited
+280
+	Ultimates	Trap	Blazing Mirror Force	Limited
+281
+	Ultimates	Trap	Bye Bye Damage	Limited
+282
+	Ultimates	Trap	Ceasefire	Limited
+283
+	Ultimates	Trap	Deck Devastation Virus	Limited
+284
+	Ultimates	Trap	Dried Winds	Limited
+285
+	Ultimates	Trap	Ice Dragon's Prison	Limited
+286
+	Ultimates	Trap	Infernity Barrier	Limited
+287
+	Ultimates	Trap	Infernity Suppression	Limited
+288
+	Ultimates	Trap	Just Desserts	Limited
+289
+	Ultimates	Trap	Lightning Talisman	Limited
+290
+	Ultimates	Trap	Magic Cylinder	Limited
+291
+	Ultimates	Trap	Quaking Mirror Force	Limited
+292
+	Ultimates	Trap	Spiritual Fire Art - Kurenai	Limited
+293
+	Ultimates	Trap	Ultimate Crystal Magic	Limited
+294
+	Ultimates	Trap	Zoma the Spirit	Semi-Limited
+295
+	Ultimates	Trap	Artifact Sanctum	Unlimited
+296
+	Ultimates	Trap	Boot-Up Order - Gear Force	Unlimited
+297
+	Ultimates	Trap	Bottomless Trap Hole	Unlimited
+298
+	Ultimates	Trap	Cybernetic Overflow	Unlimited
+299
+	Ultimates	Trap	Darklord Enchantment	Unlimited
+300
+	Ultimates	Trap	Deep Dark Trap Hole	Unlimited
+301
+	Ultimates	Trap	Disgraceful Charity (Anime)	Unlimited
+302
+	Ultimates	Trap	Draw Blast	Unlimited
+303
+	Ultimates	Trap	Drowning Mirror Force	Unlimited
+304
+	Ultimates	Trap	Eternal Galaxy	Unlimited
+305
+	Ultimates	Trap	Forced Requisition	Unlimited
+306
+	Ultimates	Trap	Grand Horn of Heaven	Unlimited
+307
+	Ultimates	Trap	Grinning Grave Virus	Unlimited
+308
+	Ultimates	Trap	Hate Buster	Unlimited
+309
+	Ultimates	Trap	Hysteric Party	Unlimited
+310
+	Ultimates	Trap	Imperial Manners	Unlimited
+311
+	Ultimates	Trap	Light to the Depths (Anime)	Unlimited
+312
+	Ultimates	Trap	Lost Wind	Unlimited
+313
+	Ultimates	Trap	Madolche Promenade	Unlimited
+314
+	Ultimates	Trap	Mirror Force	Unlimited
+315
+	Ultimates	Trap	Safe Zone	Unlimited
+316
+	Ultimates	Trap	Secret Barrel	Unlimited
+317
+	Ultimates	Trap	Shadow Balance	Unlimited
+318
+	Ultimates	Trap	Sixth Sense	Unlimited
+319
+	Ultimates	Trap	Solemn Judgment	Unlimited
+320
+	Ultimates	Trap	Solemn Strike	Unlimited
+321
+	Ultimates	Trap	Solemn Warning	Unlimited
+322
+	Ultimates	Trap	Storming Mirror Force	Unlimited
+323
+	Ultimates	Trap	Toon Terror	Unlimited
+324
+	Ultimates	Trap	Torrential Tribute	Unlimited
+325
+	Ultimates	Trap	Ultimate Offering	Unlimited
+326
+	Ultimates	Trap	Unpossessed	Unlimited
+327
+	Ultimates	Trap	Volcanic Armor	Unlimited
+328
+	Ultimates	Trap	Volcanic Mine	Unlimited
+329
+	Ultimates	Trap	Yosenjus' Sword Sting	Unlimited
+330
+			Supers
+331
+		Card Type	Name	Restriction
+332
+	Super	Monster/Effect	Blast Sphere	Limited
+333
+	Super	Monster/Effect	Chaos Emperor Dragon - Envoy of the End	Limited
+334
+	Super	Monster/Effect	Cyber Dragon Core	Limited
+335
+	Super	Monster/Effect	Madolche Hootcake	Limited
+336
+	Super	Monster/Effect	Masked Knight LV7 (VG)	Limited
+337
+	Super	Monster/Effect	Morphing Jar	Limited
+338
+	Super	Monster/Effect	The Supremacy Sun (Manga)	Limited
+339
+	Super	Monster/Effect	Yosenju Kama 1	Limited
+340
+	Super	Monster/Effect	Aleister the Invoker	Semi-Limited
+341
+	Super	Monster/Effect	Berserkion the Electromagna Warrior	Semi-Limited
+342
+	Super	Monster/Effect	Fairy Archer	Semi-Limited
+343
+	Super	Monster/Effect	Naturia Mosquito	Semi-Limited
+344
+	Super	Monster/Effect	Abyss Soldier	Unlimited
+345
+	Super	Monster/Effect	Advanced Crystal Beast Ruby Carbuncle	Unlimited
+346
+	Super	Monster/Effect	Advanced Crystal Beast Sapphire Pegasus	Unlimited
+347
+	Super	Monster/Effect	Amazoness Swords Woman	Unlimited
+348
+	Super	Monster/Effect	Ancient Gear Wyvern	Unlimited
+349
+	Super	Monster/Effect	Angmarl the Fiendish Monarch (Manga)	Unlimited
+350
+	Super	Monster/Effect	Archfiend Emperor, the First Lord of Horror	Unlimited
+351
+	Super	Monster/Effect	Artillery Catapult Turtle	Unlimited
+352
+	Super	Monster/Effect	Ash Blossom & Joyous Spring	Unlimited
+353
+	Super	Monster/Effect	Ash Blossom & Joyous Spring (Alternative Artwork)	Unlimited
+354
+	Super	Monster/Effect	Assault Wyvern	Unlimited
+355
+	Super	Monster/Effect	Awakening of the Possessed - Greater Inari Fire	Unlimited
+356
+	Super	Monster/Effect	Banisher of the Light	Unlimited
+357
+	Super	Monster/Effect	Banisher of the Radiance	Unlimited
+358
+	Super	Monster/Effect	Battle Fader	Unlimited
+359
+	Super	Monster/Effect	Beast King Barbaros	Unlimited
+360
+	Super	Monster/Effect	Beautunaful Princess	Unlimited
+361
+	Super	Monster/Effect	Big Jaws (Anime)	Unlimited
+362
+	Super	Monster/Effect	Blackwing - Gale the Whirlwind	Unlimited
+363
+	Super	Monster/Effect	Blackwing - Kalut the Moon Shadow	Unlimited
+364
+	Super	Monster/Effect	Blackwing - Simoon the Poison Wind	Unlimited	New
+365
+	Super	Monster/Effect	Broww, Huntsman of Dark World	Unlimited
+366
+	Super	Monster/Effect	Chamber Dragonmaid	Unlimited
+367
+	Super	Monster/Effect	Chaos Sorcerer	Unlimited
+368
+	Super	Monster/Effect	Chocolate Magician Girl	Unlimited
+369
+	Super	Monster/Effect	Cipher Biplane	Unlimited
+370
+	Super	Monster/Effect	Curse Necrofear	Unlimited
+371
+	Super	Monster/Effect	Cyber Dragon Naschter	Unlimited	Was incorrectly named "Cyber Dragon Nachter"
+372
+	Super	Monster/Effect	Cyber Valley	Unlimited
+373
+	Super	Monster/Effect	Cyber Valley (Anime)	Unlimited
+374
+	Super	Monster/Effect	D/D Lamia	Unlimited
+375
+	Super	Monster/Effect	D/D Swirl Slime	Unlimited
+376
+	Super	Monster/Effect	Dandylion	Unlimited
+377
+	Super	Monster/Effect	Dark Grepher	Unlimited
+378
+	Super	Monster/Effect	Dark Necrofear	Unlimited
+379
+	Super	Monster/Effect	Darklord Nurse Reficule	Unlimited
+380
+	Super	Monster/Effect	Deep Sea Diva	Unlimited
+381
+	Super	Monster/Effect	Delta the Magnet Warrior	Unlimited
+382
+	Super	Monster/Effect	Destiny HERO - Malicious	Unlimited
+383
+	Super	Monster/Effect	Double Cloth Armor	Unlimited
+384
+	Super	Monster/Effect	Dragon Spirit of White	Unlimited
+385
+	Super	Monster/Effect	Dragonmaid Ernus	Unlimited
+386
+	Super	Monster/Effect	Elemental HERO Bubbleman (Anime)	Unlimited
+387
+	Super	Monster/Effect	Elemental HERO Stratos	Unlimited
+388
+	Super	Monster/Effect	Fire King Avatar Arvata	Unlimited
+389
+	Super	Monster/Effect	Fortune Lady Fire	Unlimited
+390
+	Super	Monster/Effect	Gaia the Magical Knight	Unlimited
+391
+	Super	Monster/Effect	Galaxy-Eyes Afterglow Dragon	Unlimited
+392
+	Super	Monster/Effect	Goldd, Wu-Lord of Dark World	Unlimited
+393
+	Super	Monster/Effect	Gorz the Emissary of Darkness	Unlimited
+394
+	Super	Monster/Effect	Gren Maju Da Eiza	Unlimited
+395
+	Super	Monster/Effect	Harpie Channeler	Unlimited
+396
+	Super	Monster/Effect	Harpie Perfumer	Unlimited	New
+397
+	Super	Monster/Effect	Horus the Black Flame Dragon LV8	Unlimited
+398
+	Super	Monster/Effect	Infernity Archfiend	Unlimited
+399
+	Super	Monster/Effect	Infernity Destroyer (Anime)	Unlimited
+400
+	Super	Monster/Effect	Jinzo	Unlimited
+401
+	Super	Monster/Effect	Jinzo - Jector	Unlimited
+402
+	Super	Monster/Effect	Jowgen the Spiritualist	Unlimited
+403
+	Super	Monster/Effect	Junk Converter	Unlimited
+404
+	Super	Monster/Effect	Kitchen Dragonmaid	Unlimited
+405
+	Super	Monster/Effect	Kuribandit	Unlimited
+406
+	Super	Monster/Effect	Level Eater	Unlimited
+407
+	Super	Monster/Effect	Magicians' Souls	Unlimited
+408
+	Super	Monster/Effect	Maiden with Eyes of Blue	Unlimited
+409
+	Super	Monster/Effect	Manju of the Ten Thousand Hands	Unlimited
+410
+	Super	Monster/Effect	Master Hyperion	Unlimited
+411
+	Super	Monster/Effect	Mathematician	Unlimited
+412
+	Super	Monster/Effect	Mecha Phantom Beast O-Lion	Unlimited
+413
+	Super	Monster/Effect	Mermail Abyssmegalo	Unlimited
+414
+	Super	Monster/Effect	Mermail Abyssteus	Unlimited	New
+415
+	Super	Monster/Effect	Mezuki	Unlimited
+416
+	Super	Monster/Effect	Millennium-Eyes Illusionist	Unlimited
+417
+	Super	Monster/Effect	Miscellaneousaurus	Unlimited
+418
+	Super	Monster/Effect	Mist Valley Thunderbird	Unlimited
+419
+	Super	Monster/Effect	Necroface	Unlimited
+420
+	Super	Monster/Effect	Neptabyss, the Atlantean Prince	Unlimited
+421
+	Super	Monster/Effect	Parasite Paranoid	Unlimited
+422
+	Super	Monster/Effect	Photon Vanisher	Unlimited
+423
+	Super	Monster/Effect	Pilica, Descendant of Gusto	Unlimited
+424
+	Super	Monster/Effect	Psychic Bounder	Unlimited
+425
+	Super	Monster/Effect	Puppet Master (Anime)	Unlimited
+426
+	Super	Monster/Effect	Pyrorex the Elemental Lord	Unlimited
+427
+	Super	Monster/Effect	Rainbow Kuriboh	Unlimited
+428
+	Super	Monster/Effect	Sacred Phoenix of Nephthys	Unlimited
+429
+	Super	Monster/Effect	Sage with Eyes of Blue	Unlimited
+430
+	Super	Monster/Effect	Santa Claws	Unlimited
+431
+	Super	Monster/Effect	Secret Six Samurai - Fuma	Unlimited
+432
+	Super	Monster/Effect	Silent Magician	Unlimited
+433
+	Super	Monster/Effect	Silent Swordsman	Unlimited
+434
+	Super	Monster/Effect	Souleating Oviraptor	Unlimited
+435
+	Super	Monster/Effect	Speedroid Taketomborg	Unlimited	Was Limited
+436
+	Super	Monster/Effect	Spellbook Magician of Prophecy	Unlimited
+437
+	Super	Monster/Effect	Swift Scarecrow	Unlimited
+438
+	Super	Monster/Effect	Testudo erat Numen	Unlimited
+439
+	Super	Monster/Effect	The Agent of Judgment - Saturn	Unlimited
+440
+	Super	Monster/Effect	The Menacing Jinzo	Unlimited
+441
+	Super	Monster/Effect	The White Stone of Ancients	Unlimited	Was Red
+442
+	Super	Monster/Effect	Thunder King Rai-Oh	Unlimited
+443
+	Super	Monster/Effect	Timaeus the United Dragon	Unlimited
+444
+	Super	Monster/Effect	Toon Ancient Gear Golem	Unlimited
+445
+	Super	Monster/Effect	Tragoedia	Unlimited
+446
+	Super	Monster/Effect	Traptrix Atrax	Unlimited
+447
+	Super	Monster/Effect	Volcanic Counter	Unlimited
+448
+	Super	Monster/Effect	Volcanic Queen	Unlimited
+449
+	Super	Monster/Effect	Yosenju Magat	Unlimited
+450
+	Super	Monster/Effect	Yosenju Misak	Unlimited
+451
+	Super	Monster/Ritual	Herald of Perfection	Limited
+452
+	Super	Monster/Ritual	Conductor of Nephthys	Unlimited	Was Red
+453
+	Super	Monster/Ritual	Black Luster Soldier - Super Soldier	Unlimited
+454
+	Super	Monster/Ritual	Cyber Angel Dakini	Unlimited
+455
+	Super	Monster/Ritual	Lord of the Red (Anime)	Unlimited
+456
+	Super	Monster/Ritual	Mirror Knight Calling (Anime)	Unlimited
+457
+	Super	Spell	A Hero Lives	Limited
+458
+	Super	Spell	Card Destruction	Limited
+459
+	Super	Spell	Confiscation	Limited
+460
+	Super	Spell	Dark Hole	Limited
+461
+	Super	Spell	Dark Magic Curtain (Anime)	Limited
+462
+	Super	Spell	Dragonmaid Hospitality	Limited
+463
+	Super	Spell	Flipping the Table (Anime)	Limited
+464
+	Super	Spell	Foolish Burial	Limited
+465
+	Super	Spell	Galaxy Rebirth (Anime)	Limited
+466
+	Super	Spell	Hero's Return (Manga)	Limited
+467
+	Super	Spell	Madolche Ticket	Limited
+468
+	Super	Spell	Magnet Induction	Limited
+469
+	Super	Spell	Monster Gate	Limited
+470
+	Super	Spell	One Day of Peace	Limited
+471
+	Super	Spell	Pot of Greed	Limited
+472
+	Super	Spell	Premature Burial	Limited
+473
+	Super	Spell	Reinforcement of the Army	Limited
+474
+	Super	Spell	Silent Doom (Anime)	Limited
+475
+	Super	Spell	Utopia Buster	Limited
+476
+	Super	Spell	Yosen Whirlwind	Limited
+477
+	Super	Spell	Brilliant Fusion	Semi-Limited	Was Limited
+478
+	Super	Spell	Dark Corridor (Anime)	Semi-Limited
+479
+	Super	Spell	Magician's Scales	Semi-Limited
+480
+	Super	Spell	Mask Change	Semi-Limited
+481
+	Super	Spell	Silent Sword Slash	Semi-Limited
+482
+	Super	Spell	Absorb Fusion	Unlimited
+483
+	Super	Spell	Action Magic - Full Turn	Unlimited
+484
+	Super	Spell	Alluring Mirror Split	Unlimited
+485
+	Super	Spell	Amazoness Call	Unlimited
+486
+	Super	Spell	Ancient Gear Fortress	Unlimited
+487
+	Super	Spell	Ancient Gear Fusion	Unlimited
+488
+	Super	Spell	Ante	Unlimited
+489
+	Super	Spell	Archfiend's Staff of Despair	Unlimited
+490
+	Super	Spell	Armored Gravitation	Unlimited
+491
+	Super	Spell	Arrive in Light	Unlimited
+492
+	Super	Spell	B.E.F. Zelos	Unlimited	Was incorrectly labelled as "Monster/Effect"
+493
+	Super	Spell	Black Feather Illusion	Unlimited
+494
+	Super	Spell	Black Garden	Unlimited
+495
+	Super	Spell	Black Whirlwind	Unlimited
+496
+	Super	Spell	Blizzard Vision	Unlimited
+497
+	Super	Spell	Book of Eclipse	Unlimited
+498
+	Super	Spell	Book of Lunar Eclipse	Unlimited
+499
+	Super	Spell	Book of Moon	Unlimited
+500
+	Super	Spell	Burning Land	Unlimited
+501
+	Super	Spell	Card Guard (Anime)	Unlimited
+502
+	Super	Spell	Card of Adversity	Unlimited
+503
+	Super	Spell	Card of Distrain	Unlimited
+504
+	Super	Spell	Chaos Scepter Blast	Unlimited
+505
+	Super	Spell	Chaos Space	Unlimited
+506
+	Super	Spell	Chicken Game	Unlimited
+507
+	Super	Spell	Clashing Souls	Unlimited
+508
+	Super	Spell	Concentrating Current	Unlimited
+509
+	Super	Spell	Counterbalance	Unlimited
+510
+	Super	Spell	Creature Swap	Unlimited
+511
+	Super	Spell	Cross Over	Unlimited
+512
+	Super	Spell	Crystal Bond	Unlimited
+513
+	Super	Spell	Crystal Conclave	Unlimited
+514
+	Super	Spell	Cyber Emergency	Unlimited
+515
+	Super	Spell	Cyber Eternal	Unlimited
+516
+	Super	Spell	Cyberdark Realm	Unlimited	Was Structure Only
+517
+	Super	Spell	Cyclone Blade (Anime)	Unlimited
+518
+	Super	Spell	Dark Contract with the Gate	Unlimited
+519
+	Super	Spell	Dark Spell Regeneration (Anime)	Unlimited
+520
+	Super	Spell	Darklord Contact	Unlimited
+521
+	Super	Spell	Dimensional Fissure	Unlimited
+522
+	Super	Spell	Doll Hammer	Unlimited
+523
+	Super	Spell	Dragon Ravine	Unlimited
+524
+	Super	Spell	Ectoplasmer	Unlimited
+525
+	Super	Spell	Emergency Teleport	Unlimited
+526
+	Super	Spell	Enemy Controller	Unlimited
+527
+	Super	Spell	Everliving Underworld Cannon	Unlimited
+528
+	Super	Spell	Faustian Bargain	Unlimited
+529
+	Super	Spell	Fire King Island	Unlimited
+530
+	Super	Spell	Flaming Barbed Wire	Unlimited
+531
+	Super	Spell	Forbidden Chalice	Unlimited
+532
+	Super	Spell	Forbidden Droplet	Unlimited
+533
+	Super	Spell	Fortune Lady Calling	Unlimited
+534
+	Super	Spell	Full Armor Gravitation (Anime)	Unlimited
+535
+	Super	Spell	Fusion Birth (Manga)	Unlimited
+536
+	Super	Spell	Fusion Deployment	Unlimited
+537
+	Super	Spell	Gagaga Academy Emergency Network (Manga)	Unlimited
+538
+	Super	Spell	Galaxy Wave	Unlimited
+539
+	Super	Spell	Galloping Gaia	Unlimited
+540
+	Super	Spell	Giant Ballpark	Unlimited
+541
+	Super	Spell	Golden Bamboo Sword	Unlimited
+542
+	Super	Spell	Graceful Dice (Anime)	Unlimited
+543
+	Super	Spell	Grand Convergence	Unlimited
+544
+	Super	Spell	Harpies' Hunting Ground	Unlimited
+545
+	Super	Spell	Illusion Balloons	Unlimited
+546
+	Super	Spell	Infernity Launcher	Unlimited	Was Semi-Limited
+547
+	Super	Spell	Inferno Reckless Summon	Unlimited
+548
+	Super	Spell	Instant Fusion	Unlimited
+549
+	Super	Spell	Joker's Straight	Unlimited
+550
+	Super	Spell	Jurassic World (Anime)	Unlimited
+551
+	Super	Spell	Landstar End	Unlimited
+552
+	Super	Spell	Landstar Forces	Unlimited
+553
+	Super	Spell	Left Arm Offering	Unlimited
+554
+	Super	Spell	Legacy of the Duelist	Unlimited
+555
+	Super	Spell	Level Up!	Unlimited
+556
+	Super	Spell	Lightning Vortex	Unlimited
+557
+	Super	Spell	Machina Armored Unit	Unlimited
+558
+	Super	Spell	Machine Angel Ritual	Unlimited
+559
+	Super	Spell	Mage Power	Unlimited
+560
+	Super	Spell	Magical Citadel of Endymion	Unlimited
+561
+	Super	Spell	Magical Dimension	Unlimited
+562
+	Super	Spell	Magical Meltdown	Unlimited
+563
+	Super	Spell	Majesty with Eyes of Blue	Unlimited
+564
+	Super	Spell	Mark of the Rose	Unlimited
+565
+	Super	Spell	Mimicat	Unlimited
+566
+	Super	Spell	Mind Control	Unlimited
+567
+	Super	Spell	Miracle Fusion	Unlimited
+568
+	Super	Spell	Mirage of Nightmare	Unlimited
+569
+	Super	Spell	Misfortune	Unlimited
+570
+	Super	Spell	The Monarchs Stormforth	Unlimited	Was Red and Limited
+571
+	Super	Spell	Mound of the Bound Creator	Unlimited
+572
+	Super	Spell	Neos Fusion	Unlimited	Was Red and Limited
+573
+	Super	Spell	Noble Arms of Destiny	Unlimited
+574
+	Super	Spell	Old Model to the Frontline	Unlimited
+575
+	Super	Spell	Onomatopaira	Unlimited
+576
+	Super	Spell	Onslaught of the Fire Kings	Unlimited
+577
+	Super	Spell	Ookazi	Unlimited
+578
+	Super	Spell	Orichalcos Mirror (Anime)	Unlimited
+579
+	Super	Spell	Pantheism of the Monarchs	Unlimited	Was Limited
+580
+	Super	Spell	Phantasm Spiral Wave	Unlimited
+581
+	Super	Spell	Photon Hurricane	Unlimited
+582
+	Super	Spell	Photon Sanctuary	Unlimited
+583
+	Super	Spell	Poison of the Old Man	Unlimited
+584
+	Super	Spell	Possessed Awakening	Unlimited
+585
+	Super	Spell	Pot of Desires	Unlimited
+586
+	Super	Spell	Pot of Extravagance	Unlimited
+587
+	Super	Spell	Power Bond	Unlimited
+588
+	Super	Spell	Pre-Preparation of Rites	Unlimited
+589
+	Super	Spell	Preparation of Rites	Unlimited
+590
+	Super	Spell	Reasoning	Unlimited
+591
+	Super	Spell	Revenge Sacrifice (Anime)	Unlimited
+592
+	Super	Spell	Rose Bell of Revelation	Unlimited
+593
+	Super	Spell	Scrapstorm	Unlimited
+594
+	Super	Spell	Silent Pain	Unlimited
+595
+	Super	Spell	Silent Torment	Unlimited
+596
+	Super	Spell	Silver's Cry	Unlimited
+597
+	Super	Spell	Six Samurai United	Unlimited
+598
+	Super	Spell	Sky Striker Mobilize - Engage!	Unlimited
+599
+	Super	Spell	Soul Absorption	Unlimited
+600
+	Super	Spell	Soul Exchange	Unlimited
+601
+	Super	Spell	Soul of Fire	Unlimited
+602
+	Super	Spell	Soul Servant	Unlimited
+603
+	Super	Spell	Speed Recovery	Unlimited
+604
+	Super	Spell	Speedroid Scratch	Unlimited	Was Limited
+605
+	Super	Spell	Spellbook of Fate	Unlimited
+606
+	Super	Spell	Spellbook of Knowledge	Unlimited
+607
+	Super	Spell	Spirit Sword of Sealing	Unlimited
+608
+	Super	Spell	Super Rush Headlong	Unlimited
+609
+	Super	Spell	Super Solar Nutrient	Unlimited
+610
+	Super	Spell	Swords of Burning Light	Unlimited
+611
+	Super	Spell	Swords of Concealing Light	Unlimited
+612
+	Super	Spell	Swords of Revealing Light	Unlimited
+613
+	Super	Spell	System Down	Unlimited
+614
+	Super	Spell	Take Over 5	Unlimited
+615
+	Super	Spell	The Dark Door	Unlimited
+616
+	Super	Spell	The Fang of Critias	Unlimited
+617
+	Super	Spell	Toon Bookmark	Unlimited
+618
+	Super	Spell	Toon Page-Flip	Unlimited
+619
+	Super	Spell	Torpedo Takedown	Unlimited
+620
+	Super	Spell	Valhalla, Hall of the Fallen	Unlimited
+621
+	Super	Spell	Venom Swamp	Unlimited
+622
+	Super	Spell	Volcanic Cyclone (Anime)	Unlimited
+623
+	Super	Spell	Wetlands	Unlimited
+624
+	Super	Spell	White Mirror	Unlimited
+625
+	Super	Spell	Wild Fire	Unlimited
+626
+	Super	Spell	Xyz Wings (Manga)	Unlimited
+627
+	Super	Spell	Zexal Construction	Unlimited
+628
+	Super	Spell	Zombie Necronize	Unlimited
+629
+	Super	Trap	Blaze Accelerator Reload	Limited
+630
+	Super	Trap	Cemetary Bomb	Limited
+631
+	Super	Trap	Dimension Wall	Limited
+632
+	Super	Trap	Humid Winds	Limited
+633
+	Super	Trap	Ice Barrier (Anime)	Limited
+634
+	Super	Trap	Joker's Wild	Limited
+635
+	Super	Trap	Level Soul	Limited
+636
+	Super	Trap	Macro Cosmos	Limited
+637
+	Super	Trap	Necro Fusion	Limited
+638
+	Super	Trap	Paleozoic Dinomischus	Limited
+639
+	Super	Trap	Phantasm Spiral Battle	Limited	Was Unlimited
+640
+	Super	Trap	Photon Change	Limited
+641
+	Super	Trap	Sea Stealth Attack	Limited
+642
+	Super	Trap	Skull Invitation	Limited
+643
+	Super	Trap	Trap Trick	Limited	Was Unlimited
+644
+	Super	Trap	Wall of Disruption	Limited
+645
+	Super	Trap	Crystal Brilliance	Semi-Limited
+646
+	Super	Trap	Infinite Impermanence	Semi-Limited
+647
+	Super	Trap	Paleozoic Canadia	Semi-Limited
+648
+	Super	Trap	Paleozoic Hallucigenia	Semi-Limited
+649
+	Super	Trap	Abyss-Scorn	Unlimited
+650
+	Super	Trap	All-Out Attacks	Unlimited
+651
+	Super	Trap	Angel Statue - Azurune	Unlimited
+652
+	Super	Trap	Bad Aim	Unlimited
+653
+	Super	Trap	Battleguard Howling	Unlimited
+654
+	Super	Trap	Beast King Unleashed	Unlimited
+655
+	Super	Trap	Begone, Knave!	Unlimited
+656
+	Super	Trap	Black-Winged Arrow	Unlimited
+657
+	Super	Trap	Blade Shade	Unlimited
+658
+	Super	Trap	Breakthrough Skill	Unlimited
+659
+	Super	Trap	Bubble Bringer	Unlimited
+660
+	Super	Trap	Chain Detonation	Unlimited
+661
+	Super	Trap	Chariot Pile (Anime)	Unlimited
+662
+	Super	Trap	Cloak and Dagger	Unlimited
+663
+	Super	Trap	Common Sacrifice (Anime)	Unlimited
+664
+	Super	Trap	Compulsory Evacuation Device	Unlimited
+665
+	Super	Trap	Crackdown	Unlimited
+666
+	Super	Trap	Crystal Raigeki	Unlimited
+667
+	Super	Trap	Crystal Seal	Unlimited
+668
+	Super	Trap	Cure Conversion	Unlimited
+669
+	Super	Trap	D - Tactics	Unlimited
+670
+	Super	Trap	Dark Renewal	Unlimited
+671
+	Super	Trap	Darklord Rebellion	Unlimited
+672
+	Super	Trap	Diamond Dust	Unlimited
+673
+	Super	Trap	Dimension Guardian	Unlimited
+674
+	Super	Trap	Dimensional Prison	Unlimited
+675
+	Super	Trap	Divine Punishment	Unlimited
+676
+	Super	Trap	Dogmatika Punishment	Unlimited
+677
+	Super	Trap	Doom Petal Countdown (Anime)	Unlimited
+678
+	Super	Trap	Draining Shield	Unlimited
+679
+	Super	Trap	Dustflame Blast	Unlimited
+680
+	Super	Trap	Eye of Ujat	Unlimited
+681
+	Super	Trap	Eternal Soul	Unlimited
+682
+	Super	Trap	Fearful Earthbound	Unlimited
+683
+	Super	Trap	Fiendish Chain	Unlimited
+684
+	Super	Trap	Floodgate Trap Hole	Unlimited
+685
+	Super	Trap	Guard Off (Anime)	Unlimited
+686
+	Super	Trap	Half Counter	Unlimited
+687
+	Super	Trap	Halfway to Forever	Unlimited
+688
+	Super	Trap	Horn of Heaven	Unlimited
+689
+	Super	Trap	Icarus Attack	Unlimited
+690
+	Super	Trap	Ice Barrier	Unlimited
+691
+	Super	Trap	Imperial Custom	Unlimited
+692
+	Super	Trap	Imperial Tombs of Necrovalley	Unlimited
+693
+	Super	Trap	Justi-Break	Unlimited
+694
+	Super	Trap	Karma Cut	Unlimited
+695
+	Super	Trap	King's Consonance	Unlimited
+696
+	Super	Trap	King's Synchro	Unlimited
+697
+	Super	Trap	Let Me Off Easy	Unlimited
+698
+	Super	Trap	Liberty at Last!	Unlimited
+699
+	Super	Trap	Life Force	Unlimited
+700
+	Super	Trap	Lumenize	Unlimited
+701
+	Super	Trap	Magical Arm Shield	Unlimited
+702
+	Super	Trap	Magical Trick Mirror	Unlimited
+703
+	Super	Trap	Malevolent Catastrophe	Unlimited
+704
+	Super	Trap	Mask of Perplexity	Unlimited
+705
+	Super	Trap	Mask of Restrict	Unlimited
+706
+	Super	Trap	Michizure	Unlimited
+707
+	Super	Trap	Mind Over Matter	Unlimited
+708
+	Super	Trap	Mirror Tablet	Unlimited
+709
+	Super	Trap	Multiple Destruction (Anime)	Unlimited
+710
+	Super	Trap	Negate Attack	Unlimited
+711
+	Super	Trap	Nightmare Mirror	Unlimited
+712
+	Super	Trap	Nightmare Wheel	Unlimited
+713
+	Super	Trap	Ordeal of a Traveler	Unlimited
+714
+	Super	Trap	Phantasm Spiral Power	Unlimited
+715
+	Super	Trap	Pineapple Blast	Unlimited
+716
+	Super	Trap	Pinpoint Guard	Unlimited
+717
+	Super	Trap	Pinpoint Shot	Unlimited
+718
+	Super	Trap	Pollinosis	Unlimited
+719
+	Super	Trap	Poseidon Wave	Unlimited
+720
+	Super	Trap	Psychic Shockwave	Unlimited
+721
+	Super	Trap	Pulse Mines	Unlimited
+722
+	Super	Trap	Punch-in-the-Box	Unlimited
+723
+	Super	Trap	Raigeki Break	Unlimited
+724
+	Super	Trap	Rainbow Life	Unlimited
+725
+	Super	Trap	Rebirth of Parshath	Unlimited
+726
+	Super	Trap	Reverse Wall (Manga)	Unlimited
+727
+	Super	Trap	Ring of Life (Anime)	Unlimited
+728
+	Super	Trap	Rise to Full Height	Unlimited
+729
+	Super	Trap	Sakuretsu Armor	Unlimited
+730
+	Super	Trap	Scrap-Iron Scarecrow	Unlimited
+731
+	Super	Trap	Scrubbed Raid	Unlimited
+732
+	Super	Trap	Shadow-Imprisoning Mirror	Unlimited
+733
+	Super	Trap	Shark Splash	Unlimited
+734
+	Super	Trap	Shiranui Style Samsara	Unlimited
+735
+	Super	Trap	Shiranui Style Success	Unlimited
+736
+	Super	Trap	Sinister Yorishiro	Unlimited
+737
+	Super	Trap	Spirit Shield	Unlimited
+738
+	Super	Trap	Starlight Force (Anime)	Unlimited
+739
+	Super	Trap	Statue of Anguish Pattern	Unlimited
+740
+	Super	Trap	Subterror Succession	Unlimited
+741
+	Super	Trap	Talisman of Reversal	Unlimited
+742
+	Super	Trap	Tears of a Mermaid	Unlimited
+743
+	Super	Trap	The Ice-Bound God	Unlimited
+744
+	Super	Trap	The Sanctified Darklord	Unlimited
+745
+	Super	Trap	The Selection (Anime)	Unlimited
+746
+	Super	Trap	Threatening Roar	Unlimited
+747
+	Super	Trap	Toon Briefcase	Unlimited
+748
+	Super	Trap	Tour of Doom	Unlimited
+749
+	Super	Trap	Trap Hole of Spikes	Unlimited
+750
+	Super	Trap	Trap Stun	Unlimited
+751
+	Super	Trap	Traptrix Trap Hole Nightmare	Unlimited
+752
+	Super	Trap	Trick Buster (Anime)	Unlimited
+753
+	Super	Trap	Volcanic Eruption	Unlimited
+754
+	Super	Trap	W Nebula Meteorite	Unlimited
+755
+	Super	Trap	Waboku	Unlimited
+756
+	Super	Trap	Wall of Thorns	Unlimited
+757
+	Super	Trap	White Howling	Unlimited
+758
+	Super	Trap	Widespread Ruin	Unlimited
+759
+	Super	Trap	Xyz Reborn plus	Unlimited
+760
+	Super	Trap	Yosenjus' Secret Move	Unlimited
+761
+	Super	Trap	Zero Hole (GX) (Anime)	Unlimited
+762
+			White
+763
+	Tier	Card Type	Name	Restriction	Remarks
+764
+	White	Monster/Effect	Alpha the Electromagnet Warrior	Limited
+765
+	White	Monster/Effect	Athena	Limited
+766
+	White	Monster/Effect	Darkness Neosphere	Limited
+767
+	White	Monster/Effect	Destiny HERO - Bloo-D (Anime)	Limited
+768
+	White	Monster/Effect	Magician of Dark Illusion	Limited
+769
+	White	Monster/Effect	Predaplant Flytrap	Limited
+770
+	White	Monster/Effect	Speedroid Maliciousmagnet	Limited
+771
+	White	Monster/Effect	Super Conductor Tyranno	Limited
+772
+	White	Monster/Effect	Yosenju Kama 3	Limited
+773
+	White	Monster/Effect	Aromage Marjoram	Semi-Limited	Was Limited
+774
+	White	Monster/Effect	Effect Veiler	Semi-Limited
+775
+	White	Monster/Effect	Elemental HERO Shadow Mist	Semi-Limited
+776
+	White	Monster/Effect	Parlor Dragonmaid	Semi-Limited
+777
+	White	Spell	Called by the Grave	Limited
+778
+	White	Spell	Command Silencer (Anime)	Limited
+779
+	White	Spell	Cost Down (Anime)	Limited
+780
+	White	Spell	Dark Magic Veil	Limited
+781
+	White	Spell	Divine Wind of Mist Valley	Limited
+782
+	White	Spell	Dragonmaid Changeover	Limited
+783
+	White	Spell	Ecole de Zone	Limited
+784
+	White	Spell	Foolish Burial Goods	Limited
+785
+	White	Spell	Gift of the Weak (Manga)	Limited
+786
+	White	Spell	Gold Sarcophagus	Limited
+787
+	White	Spell	Hand Destruction	Limited
+788
+	White	Spell	Into the Void	Limited
+789
+	White	Spell	Madolche Chateau	Limited
+790
+	White	Spell	One for One	Limited
+791
+	White	Spell	Speedraw (Anime)	Limited
+792
+	White	Spell	Spider Web (GX)	Limited
+793
+	White	Spell	Stardust Illumination	Limited
+794
+	White	Spell	The Book of the Law	Limited
+795
+	White	Spell	The Eye of Timaeus	Limited
+796
+	White	Spell	Upstart Goblin	Limited
+797
+	White	Spell	Dark Spirit's Mastery	Semi-Limited
+798
+	White	Spell	Shien's Smoke Signal	Semi-Limited	Was Blue
+799
+	White	Trap	Back to the Front	Limited
+800
+	White	Trap	Blessed Winds	Limited	Was Blue
+801
+	White	Trap	Cross-Dimensional Duel	Limited	Was Blue and Unlimited
+802
+	White	Trap	Dark Matter (VG)	Limited
+803
+	White	Trap	Dragonmaid Tidying	Limited
+804
+	White	Trap	Floral Shield	Limited
+805
+	White	Trap	Forced Back	Limited
+806
+	White	Trap	Necrovalley Temple	Limited
+807
+	White	Trap	Red Reboot	Limited
+808
+	White	Trap	Ring of Destruction	Limited
+809
+	White	Trap	Sentence of Doom	Limited
+810
+	White	Trap	Slime Ball (Anime)	Limited
+811
+	White	Trap	Speedroid Dupligate	Limited
+812
+	White	Trap	Offering to the Snake Deity	Semi-Limited
+813
+	White	Trap	Paleozoic Pikaia	Semi-Limited
+814
+	White	Trap	Six Style - Dual Wield	Semi-Limited	Was Red
+815
+	White	Trap	Sonic Stun	Semi-Limited
+816
+	White	Trap	Space Dragster	Semi-Limited
+817
+	White	Trap	Spiritual Wind Art - Miyabi	Semi-Limited
+818
+	White	Trap	Torrential Reborn	Semi-Limited	Was Blue and Unlimited
+819
+			No Longer On The List
+820
+		Card Type	Name	Restriction	Remarks
+821
+	Freed	Monster/Effect	Amazoness Queen	No longer on the list	Was Blue
+822
+	Freed	Monster/Effect	Aquaactress Tetra	No longer on the list	Was Blue
+823
+	Freed	Monster/Effect	Aroma Jar	No longer on the list	Was Red
+824
+	Freed	Monster/Effect	Aromage Bergamot	No longer on the list	Was Blue
+825
+	Freed	Monster/Effect	Aromage Jasmine	No longer on the list	Was Semi-Limited
+826
+	Freed	Monster/Effect	Aromage Laurel	No longer on the list	Was Blue
+827
+	Freed	Monster/Effect	Black Metal Dragon	No longer on the list	Was Red and Limited
+828
+	Freed	Monster/Effect	The Black Stone of Legend	No longer on the list	Was Blue
+829
+	Freed	Monster/Effect	Evil HERO Adusted Gold	No longer on the list	Was Blue
+830
+	Freed	Monster/Effect	Gishki Shadow	No longer on the list	Was Blue
+831
+	Freed	Monster/Effect	Gishki Vision	No longer on the list	Was Blue
+832
+	Freed	Monster/Effect	Gusto Gulldo	No longer on the list	Was Blue
+833
+	Freed	Monster/Effect	Jet Synchron	No longer on the list	Was Blue
+834
+	Freed	Monster/Effect	Laval Cannon	No longer on the list	Was Blue
+835
+	Freed	Monster/Effect	Laval Judgment Lord	No longer on the list	Was Blue
+836
+	Freed	Monster/Effect	Legendary Six Samurai - Enishi	No longer on the list	Was Blue
+837
+	Freed	Monster/Effect	Neo-Spacian Grand Mole	No longer on the list	Was Blue
+838
+	Freed	Monster/Effect	Red Resonator	No longer on the list	Was Blue
+839
+	Freed	Monster/Effect	Red-Eyes Alternative Black Dragon	No longer on the list	Was Blue
+840
+	Freed	Monster/Effect	Red-Eyes Retro Dragon	No longer on the list	Was Blue
+841
+	Freed	Monster/Effect	Speedroid Den-Den Daiko Duke	No longer on the list	Was Blue
+842
+	Freed	Monster/Effect	T.G. Screw Serpent	No longer on the list	Was Blue
+843
+	Freed	Monster/Effect	Utopic Onomatopoeia	No longer on the list	Was Blue
+844
+	Freed	Monster/Effect	Vijam the Cubic Seed	No longer on the list	Was Blue
+845
+	Freed	Monster/Effect	Wandering King Wildwind	No longer on the list	Was Blue
+846
+	Freed	Monster/Ritual	Cerulean Sacred Phoenix of Nephthys	No longer on the list	Was Blue
+847
+	Freed	Monster/Ritual	Evigishki Gustkraken	No longer on the list	Was Limited
+848
+	Freed	Monster/Ritual	Evigishki Mind Augus	No longer on the list	Was Limited
+849
+	Freed	Monster/Ritual	Gishki Zielgigas	No longer on the list	Was Red
+850
+	Freed	Monster/Ritual	Lord of the Red	No longer on the list	Was Blue
+851
+	Freed	Spell	Aquarium Lighting	No longer on the list	Was Red
+852
+	Freed	Spell	Aquarium Stage	No longer on the list	Was Blue
+853
+	Freed	Spell	Boss Rush	No longer on the list	Was Blue
+854
+	Freed	Spell	Cyberdark Inferno	No longer on the list	Was Blue
+855
+	Freed	Spell	Fortune Vision	No longer on the list	Was Blue
+856
+	Freed	Spell	Gagaga X Gagaga (Anime)	No longer on the list	Was Blue
+857
+	Freed	Spell	Gem-Knight Fusion	No longer on the list	Was Blue
+858
+	Freed	Spell	March of the Monarchs	No longer on the list	Was Blue
+859
+	Freed	Spell	Miracle Contact	No longer on the list	Was Semi-Limited
+860
+	Freed	Spell	Particle Fusion	No longer on the list	Was Red and Limited
+861
+	Freed	Spell	Red-Eyes Fusion	No longer on the list	Was Red and Limited
+862
+	Freed	Spell	Red-Eyes Insight	No longer on the list	Was Blue and Semi-Limited
+863
+	Freed	Spell	Speedlift	No longer on the list	Was Blue and Semi-Limited
+864
+	Freed	Spell	Speedroid Wheel	No longer on the list	Was Blue
+865
+	Freed	Spell	Supreme King's Castle	No longer on the list	Was Blue
+866
+	Freed	Spell	Synchro Overtake	No longer on the list	Was Blue
+867
+	Freed	Trap	Fortune Lady Rewind	No longer on the list	Was Red
+868
+	Freed	Trap	Infernity Break	No longer on the list	Was Blue
+869
+	Freed	Trap	Red-Eyes Fang with Chain	No longer on the list	Was Blue
+870
+	Freed	Trap	Red-Eyes Spirit	No longer on the list	Was Semi-Limited
+871
+	Freed	Trap	Spikeshield with Chain	No longer on the list	Was Blue
+872
+	Freed	Trap	Zexal Alliance	No longer on the list	Was Blue
+873
+			Extra Deck
+874
+			Banned
+875
+	Type	Card Type	Name	Tier	Remarks
+876
+	Extra Deck	Monster/Fusion	Blue-Eyes Alternative Ultimate Dragon	Forbidden	Was A Tier
+877
+	Forbidden	Monster/Fusion	Dragonmaid Sheou	Forbidden
+878
+	Forbidden	Monster/Fusion	Elemental HERO Neo Bubbleman (Anime)	Forbidden
+879
+	Forbidden	Monster/Fusion	Evil HERO Malicious Bane	Forbidden
+880
+	Forbidden	Monster/Fusion	Invoked Mechaba	Forbidden
+881
+	Forbidden	Monster/Fusion	Masked HERO Dark Law	Forbidden
+882
+	Forbidden	Monster/Fusion	Meteor Black Comet Dragon	Forbidden	Was B Tier
+883
+	Forbidden	Monster/Fusion	The First Darklord	Forbidden
+884
+	Forbidden
+Monster/Fusion/Pendulum/Effect
+	Supreme King Z-ARC	Forbidden
+885
+	Extra Deck	Monster/Synchro	Crimson Blader	Forbidden	Was B Tier
+886
+	Forbidden	Monster/Synchro	Hot Red Dragon Archfiend King Calamity (Manga)	Forbidden
+887
+	Forbidden	Monster/Synchro	Scarlight Red Dragon Archfiend	Forbidden
+888
+	Forbidden	Monster/Synchro	Trishula, Zero Dragon of the Ice Barrier	Forbidden
+889
+	Forbidden	Monster/Synchro	Tyrant Red Dragon Archfiend	Forbidden
+890
+	Forbidden	Monster/Xyz	Dark Rebellion Xyz Dragon (Alternative Artwork)	Forbidden
+891
+	Forbidden	Monster/Xyz	Harpie's Pet Phantasmal Dragon	Forbidden
+892
+	Forbidden	Monster/Xyz/Pendulum/Effect	Odd-Eyes Raging Dragon	Forbidden
+893
+	Forbidden	Monster/Xyz/Pendulum/Effect	Odd-Eyes Rebellion Dragon	Forbidden
+894
+	Forbidden	Monster/Xyz/Pendulum/Effect	Odd-Eyes Rebellion Dragon - Overlord	Forbidden
+895
+	Forbidden	Monster/Link	Borreload Dragon	Forbidden
+896
+	Forbidden	Monster/Link	Borrelsword Dragon	Forbidden
+897
+	Forbidden	Monster/Link	Decode Talker	Forbidden
+898
+	Forbidden	Monster/Link	Linkuriboh	Forbidden
+899
+			A Tier
+900
+	Type	Card Type	Name	Tier	Remarks
+901
+	Extra Deck	Monster/Fusion	Big Bang Dragon Blow (Anime)	A Tier
+902
+	Extra Deck	Monster/Fusion	Chimeratech Rampage Dragon	A Tier
+903
+	Extra Deck	Monster/Fusion	Elemental HERO Absolute Zero	A Tier
+904
+	Extra Deck	Monster/Fusion	Elemental HERO Nebula Neos	A Tier
+905
+	Extra Deck	Monster/Fusion	Masked HERO Anki	A Tier
+906
+	Extra Deck	Monster/Fusion	Neo Blue-Eyes Ultimate Dragon	A Tier
+907
+	Extra Deck	Monster/Fusion	Performapal Gatlinghoul	A Tier
+908
+	Extra Deck	Monster/Fusion	Time Wizard of Tomorrow	A Tier
+909
+	Extra Deck	Monster/Synchro	Hot Red Dragon Archfiend Abyss	A Tier
+910
+	Extra Deck	Monster/Synchro	Trishula, Dragon of the Ice Barrier	A Tier
+911
+			B Tier
+912
+	Type	Card Type	Name	Tier	Remarks
+913
+	Extra Deck	Monster/Fusion	Brave-Eyes Pendulum Dragon	B Tier
+914
+	Extra Deck	Monster/Fusion	Dark Cavalry	B Tier
+915
+	Extra Deck	Monster/Fusion	Egyptian God Slime (Anime)	B Tier
+916
+	Extra Deck	Monster/Fusion	Gem-Knight Lady Brilliant Diamond	B Tier
+917
+	Extra Deck	Monster/Fusion	Gilti-Gearfried The Magical Steel Knight	B Tier
+918
+	Extra Deck	Monster/Fusion	Imperion Magnum the Superconductive Battlebot	B Tier
+919
+	Extra Deck	Monster/Fusion	Invoked Cocytus	B Tier
+920
+	Extra Deck	Monster/Fusion	Invoked Purgatrio	B Tier
+921
+	Extra Deck	Monster/Fusion	Starving Venom Fusion Dragon	B Tier
+922
+	Extra Deck	Monster/Fusion	Starving Venom Fusion Dragon (Alternative Artwork)	B Tier
+923
+	Extra Deck	Monster/Fusion	Timaeus The Knight of Destiny	B Tier
+924
+	Extra Deck	Monster/Fusion	Vision HERO Trinity	B Tier
+925
+	Extra Deck	Monster/Synchro	Aromaseraphy Sweet Marjoram	B Tier
+926
+	Extra Deck	Monster/Synchro	Black Rose Dragon	B Tier
+927
+	Extra Deck	Monster/Synchro	Brionac, Dragon of the Ice Barrier	B Tier
+928
+	Extra Deck	Monster/Synchro	Cyber Slash Harpie Lady	B Tier
+929
+	Extra Deck	Monster/Synchro	Mist Wurm	B Tier
+930
+	Extra Deck	Monster/Synchro	Naturia Barkion	B Tier
+931
+	Extra Deck	Monster/Synchro	Shooting Quasar Dragon	B Tier
+932
+	Extra Deck	Monster/Synchro	White Aura Whale	B Tier
+933
+	Extra Deck	Monster/Xyz	Dark Rebellion Xyz Dragon (Anime)	B Tier
+934
+	Extra Deck	Monster/Xyz	Number 107: Galaxy-Eyes Tachyon Dragon	B Tier
+935
+	Extra Deck	Monster/Xyz	Submersible Carrier Aero Shark (Anime)	B Tier
+936
+			C Tier
+937
+	Type	Card Type	Name	Tier	Remarks
+938
+	Extra Deck	Monster/Fusion	Amazoness Empress	C Tier	Was D Tier
+939
+	Extra Deck	Monster/Fusion	Beast-Eyes Pendulum Dragon	C Tier
+940
+	Extra Deck	Monster/Fusion	Dark Magician Girl The Dragon Knight	C Tier
+941
+	Extra Deck	Monster/Fusion	Destiny HERO - Dystopia	C Tier
+942
+	Extra Deck	Monster/Fusion	Invoked Raidjin	C Tier
+943
+	Extra Deck	Monster/Fusion	Masked HERO Divine Wind	C Tier
+944
+	Extra Deck	Monster/Fusion	Performapal Odd-Eyes Metal Claw	C Tier
+945
+	Extra Deck	Monster/Fusion	The Dark Magicians	C Tier
+946
+	Extra Deck	Monster/Synchro	Ally of Justice Catastor	C Tier
+947
+	Extra Deck	Monster/Synchro	Aromaseraphy Rosemary	C Tier
+948
+	Extra Deck	Monster/Synchro	Assault Blackwing - Raikiri the Rain Shower	C Tier
+949
+	Extra Deck	Monster/Synchro	Black Rose Moonlight Dragon	C Tier
+950
+	Extra Deck	Monster/Synchro	Clear Wing Synchro Dragon	C Tier
+951
+	Extra Deck	Monster/Synchro	Clear Wing Synchro Dragon (Alternative Artwork)	C Tier
+952
+	Extra Deck	Monster/Synchro	Daigusto Sphreez	C Tier
+953
+	Extra Deck	Monster/Synchro	Fortune Lady Every	C Tier
+954
+	Extra Deck	Monster/Synchro	Hot Red Dragon Archfiend	C Tier
+955
+	Extra Deck	Monster/Synchro	Infernity Doom Archfiend	C Tier
+956
+	Extra Deck	Monster/Synchro	Legendary Six Samurai - Shi En	C Tier
+957
+	Extra Deck	Monster/Synchro	Naturia Beast	C Tier
+958
+	Extra Deck	Monster/Synchro	Red Wyvern	C Tier
+959
+	Extra Deck	Monster/Xyz	Artifact Durendal	C Tier
+960
+	Extra Deck	Monster/Xyz	Constellar Pleiades	C Tier
+961
+	Extra Deck	Monster/Xyz	Mecha Phantom Beast Dracossack	C Tier
+962
+	Extra Deck	Monster/Xyz	Number F0: Utopic Future Slash	C Tier
+963
+	Extra Deck	Monster/Xyz	Number 39: Utopia Beyond	C Tier
+964
+	Extra Deck	Monster/Xyz	Number 50: Blackship of Corn	C Tier
+965
+	Extra Deck	Monster/Xyz	Number 62: Galaxy-Eyes Prime Photon Dragon	C Tier
+966
+	Extra Deck	Monster/Xyz	Number C39: Utopia Ray Victory	C Tier
+967
+	Extra Deck	Monster/Xyz	Number 101: Silent Honor ARK	C Tier
+968
+	Extra Deck	Monster/Xyz	Number C104: Umbral Horror Masquerade	C Tier
+969
+	Extra Deck	Monster/Xyz	Paleozoic Opabinia	C Tier
+970
+	Extra Deck	Monster/Xyz	Steelswarm Roach	C Tier
+971
+			D Tier
+972
+	Type	Card Type	Name	Tier	Remarks
+973
+	Extra Deck	Monster/Fusion	Alligator’s Sword Dragon	D Tier
+974
+	Extra Deck	Monster/Fusion	Amazoness Pet Liger	D Tier
+975
+	Extra Deck	Monster/Fusion	Ambulance Rescueroid	D Tier
+976
+	Extra Deck	Monster/Fusion	Amulet Dragon	D Tier
+977
+	Extra Deck	Monster/Fusion	Arcana Knight Joker	D Tier
+978
+	Extra Deck	Monster/Fusion	Archfiend's Manifestation	D Tier
+979
+	Extra Deck	Monster/Fusion	B. Skull Dragon	D Tier
+980
+	Extra Deck	Monster/Fusion	Barbaroid, the Ultimate Battle Machine	D Tier
+981
+	Extra Deck	Monster/Fusion	Blue-Eyes Tyrant Dragon	D Tier
+982
+	Extra Deck	Monster/Fusion	Blue-Eyes Ultimate Dragon	D Tier
+983
+	Extra Deck	Monster/Fusion	Bracchio-raidus	D Tier
+984
+	Extra Deck	Monster/Fusion	Chimera the Flying Mythical Beast	D Tier
+985
+	Extra Deck	Monster/Fusion	Chimeratech Fortress Dragon	D Tier
+986
+	Extra Deck	Monster/Fusion	Chimeratech Fortress Dragon (Anime)	D Tier
+987
+	Extra Deck	Monster/Fusion	Chimeratech Overdragon	D Tier
+988
+	Extra Deck	Monster/Fusion	Contrast HERO Chaos	D Tier
+989
+	Extra Deck	Monster/Fusion	Cyber Blader	D Tier
+990
+	Extra Deck	Monster/Fusion	Cyber End Dragon	D Tier
+991
+	Extra Deck	Monster/Fusion	Cyber Twin Dragon	D Tier
+992
+	Extra Deck	Monster/Fusion	Cyberdark Dragon	D Tier
+993
+	Extra Deck	Monster/Fusion	Cyberdark Dragon (Anime)	D Tier
+994
+	Extra Deck	Monster/Fusion	Cyberdarkness Dragon	D Tier
+995
+	Extra Deck	Monster/Fusion	D.3.S. Frog	D Tier
+996
+	Extra Deck	Monster/Fusion	D/D/D Oracle King d'Arc	D Tier
+997
+	Extra Deck	Monster/Fusion	Dark Magician Girl, the Dragon Knight (Anime)	D Tier
+998
+	Extra Deck	Monster/Fusion	Dark Magician The Dragon Knight	D Tier
+999
+	Extra Deck	Monster/Fusion	Dark Paladin	D Tier
+1000
+	Extra Deck	Monster/Fusion	Darkfire Dragon	D Tier
+1001
+	Extra Deck	Monster/Fusion	Destiny End Dragoon	D Tier
+1002
+	Extra Deck	Monster/Fusion	Doom Virus Dragon	D Tier
+1003
+	Extra Deck	Monster/Fusion	Doom Virus Dragon (Anime)	D Tier
+1004
+	Extra Deck	Monster/Fusion	Dragon Knight Draco-Equiste	D Tier
+1005
+	Extra Deck	Monster/Fusion	Dragon Master Knight	D Tier
+1006
+	Extra Deck	Monster/Fusion	Elemental HERO Absolute Zero (Anime)	D Tier
+1007
+	Extra Deck	Monster/Fusion	Elemental HERO Air Neos	D Tier
+1008
+	Extra Deck	Monster/Fusion	Elemental HERO Aqua Neos	D Tier
+1009
+	Extra Deck	Monster/Fusion	Elemental HERO Brave Neos	D Tier
+1010
+	Extra Deck	Monster/Fusion	Elemental HERO Chaos Neos	D Tier
+1011
+	Extra Deck	Monster/Fusion	Elemental HERO Core	D Tier
+1012
+	Extra Deck	Monster/Fusion	Elemental HERO Dark Neos	D Tier
+1013
+	Extra Deck	Monster/Fusion	Elemental HERO Darkbright	D Tier
+1014
+	Extra Deck	Monster/Fusion	Elemental HERO Divine Neos (Anime)	D Tier
+1015
+	Extra Deck	Monster/Fusion	Elemental HERO Electrum	D Tier
+1016
+	Extra Deck	Monster/Fusion	Elemental HERO Escuridao	D Tier
+1017
+	Extra Deck	Monster/Fusion	Elemental HERO Flame Wingman	D Tier
+1018
+	Extra Deck	Monster/Fusion	Elemental HERO Flare Neos	D Tier
+1019
+	Extra Deck	Monster/Fusion	Elemental HERO Gaia	D Tier
+1020
+	Extra Deck	Monster/Fusion	Elemental HERO Glow Neos	D Tier
+1021
+	Extra Deck	Monster/Fusion	Elemental HERO Grand Neos	D Tier
+1022
+	Extra Deck	Monster/Fusion	Elemental HERO Great Tornado	D Tier
+1023
+	Extra Deck	Monster/Fusion	Elemental HERO Magma Neos	D Tier
+1024
+	Extra Deck	Monster/Fusion	Elemental HERO Mudballman	D Tier
+1025
+	Extra Deck	Monster/Fusion	Elemental HERO Nova Master	D Tier
+1026
+	Extra Deck	Monster/Fusion	Elemental HERO Phoenix Enforcer	D Tier
+1027
+	Extra Deck	Monster/Fusion	Elemental HERO Plasma Vice	D Tier
+1028
+	Extra Deck	Monster/Fusion	Elemental HERO Rampart Blaster	D Tier
+1029
+	Extra Deck	Monster/Fusion	Elemental HERO Shining Flare Wingman	D Tier
+1030
+	Extra Deck	Monster/Fusion	Elemental HERO Shining Phoenix Enforcer	D Tier
+1031
+	Extra Deck	Monster/Fusion	Elemental HERO Steam Healer	D Tier
+1032
+	Extra Deck	Monster/Fusion	Elemental HERO Storm Neos	D Tier
+1033
+	Extra Deck	Monster/Fusion	Elemental HERO Tempest	D Tier
+1034
+	Extra Deck	Monster/Fusion	Elemental HERO Terra Firma	D Tier
+1035
+	Extra Deck	Monster/Fusion	Elemental HERO The Shining	D Tier
+1036
+	Extra Deck	Monster/Fusion	Elemental HERO Thunder Giant	D Tier
+1037
+	Extra Deck	Monster/Fusion	Elemental HERO Wild Wingman	D Tier
+1038
+	Extra Deck	Monster/Fusion	Elemental HERO Wildedge	D Tier
+1039
+	Extra Deck	Monster/Fusion	Evil HERO Dark Gaia	D Tier
+1040
+	Extra Deck	Monster/Fusion	Evil HERO Infernal Sniper	D Tier
+1041
+	Extra Deck	Monster/Fusion	Evil HERO Inferno Wing	D Tier
+1042
+	Extra Deck	Monster/Fusion	Evil HERO Lightning Golem	D Tier
+1043
+	Extra Deck	Monster/Fusion	Evil HERO Malicious Fiend	D Tier
+1044
+	Extra Deck	Monster/Fusion	Evil HERO Wild Cyclone	D Tier
+1045
+	Extra Deck	Monster/Fusion	Five-Headed Dragon	D Tier
+1046
+	Extra Deck	Monster/Fusion	Flame Swordsman	D Tier
+1047
+	Extra Deck	Monster/Fusion	Fusionist	D Tier
+1048
+	Extra Deck	Monster/Fusion	Gaia the Dragon Champion	D Tier
+1049
+	Extra Deck	Monster/Fusion	Gaia the Magical Knight of Dragons	D Tier
+1050
+	Extra Deck	Monster/Fusion	Gatling Dragon	D Tier
+1051
+	Extra Deck	Monster/Fusion	Gem-Knight Amethyst	D Tier
+1052
+	Extra Deck	Monster/Fusion	Gem-Knight Aquamarine	D Tier
+1053
+	Extra Deck	Monster/Fusion	Gem-Knight Citrine	D Tier
+1054
+	Extra Deck	Monster/Fusion	Gem-Knight Lady Lapis Lazuli (Anime Alt)	D Tier
+1055
+	Extra Deck	Monster/Fusion	Gem-Knight Lady Lapis Lazuli (Anime)	D Tier
+1056
+	Extra Deck	Monster/Fusion	Gem-Knight Prismaura	D Tier
+1057
+	Extra Deck	Monster/Fusion	Gem-Knight Ruby	D Tier
+1058
+	Extra Deck	Monster/Fusion	Gem-Knight Seraphinite	D Tier
+1059
+	Extra Deck	Monster/Fusion	Gem-Knight Topaz	D Tier
+1060
+	Extra Deck	Monster/Fusion	Gem-Knight Zirconia	D Tier
+1061
+	Extra Deck	Monster/Fusion	Gilti-Gearfried the Magical Steel Knight (Manga)	D Tier
+1062
+	Extra Deck	Monster/Fusion	Goddess Bow	D Tier
+1063
+	Extra Deck	Monster/Fusion	Great Mammoth of Goldfine	D Tier
+1064
+	Extra Deck	Monster/Fusion	House Dragonmaid	D Tier
+1065
+	Extra Deck	Monster/Fusion	Invoked Caliga	D Tier
+1066
+	Extra Deck	Monster/Fusion	Invoked Elysium	D Tier
+1067
+	Extra Deck	Monster/Fusion	Invoked Magellanica	D Tier
+1068
+	Extra Deck	Monster/Fusion	King Dragun	D Tier
+1069
+	Extra Deck	Monster/Fusion	Labyrinth Tank	D Tier
+1070
+	Extra Deck	Monster/Fusion	Masked HERO Blast	D Tier
+1071
+	Extra Deck	Monster/Fusion	Masked HERO Dian	D Tier
+1072
+	Extra Deck	Monster/Fusion	Masked HERO Goka	D Tier
+1073
+	Extra Deck	Monster/Fusion	Masked HERO Koga	D Tier
+1074
+	Extra Deck	Monster/Fusion	Masked HERO Vapor	D Tier
+1075
+	Extra Deck	Monster/Fusion	Meteor B. Dragon	D Tier
+1076
+	Extra Deck	Monster/Fusion	Mokey Mokey King	D Tier
+1077
+	Extra Deck	Monster/Fusion	Mudragon of the Swamp	D Tier
+1078
+	Extra Deck	Monster/Fusion	Naturia Exterio	D Tier
+1079
+	Extra Deck	Monster/Fusion	Ojama King	D Tier
+1080
+	Extra Deck	Monster/Fusion	Ojama Knight	D Tier
+1081
+	Extra Deck	Monster/Fusion	Pair Cycroid	D Tier
+1082
+	Extra Deck	Monster/Fusion	Rabid Horseman	D Tier
+1083
+	Extra Deck	Monster/Fusion	Rainbow Overdragon	D Tier
+1084
+	Extra Deck	Monster/Fusion	Red-Eyes Black Dragon Sword	D Tier
+1085
+	Extra Deck	Monster/Fusion	Red-Eyes Slash Dragon	D Tier
+1086
+	Extra Deck	Monster/Fusion	Rocket Hermos Cannon	D Tier
+1087
+	Extra Deck	Monster/Fusion	Rune-Eyes Pendulum Dragon	D Tier
+1088
+	Extra Deck	Monster/Fusion	Secret Six Samurai - Rihan	D Tier
+1089
+	Extra Deck	Monster/Fusion	Sky Galloping Gaia the Dragon Champion	D Tier
+1090
+	Extra Deck	Monster/Fusion	Steam Gyroid	D Tier
+1091
+	Extra Deck	Monster/Fusion	Super Robolady	D Tier
+1092
+	Extra Deck	Monster/Fusion	Super Roboyarou	D Tier
+1093
+	Extra Deck	Monster/Fusion	Super Vehicroid - Mobile Base	D Tier
+1094
+	Extra Deck	Monster/Fusion	Super Vehicroid - Stealth Union	D Tier
+1095
+	Extra Deck	Monster/Fusion	Super Vehicroid Jumbo Drill	D Tier
+1096
+	Extra Deck	Monster/Fusion	Thousand Dragon	D Tier
+1097
+	Extra Deck	Monster/Fusion	Time Magic Hammer	D Tier
+1098
+	Extra Deck	Monster/Fusion	Trishula, the Dragon of Icy Imprisonment	D Tier
+1099
+	Extra Deck	Monster/Fusion	Twin-Headed Thunder Dragon	D Tier
+1100
+	Extra Deck	Monster/Fusion	Twin Photon Lizard	D Tier
+1101
+	Extra Deck	Monster/Fusion	Tyrant Burst Dragon	D Tier
+1102
+	Extra Deck	Monster/Fusion	Tyrant Burst Dragon (Anime)	D Tier
+1103
+	Extra Deck	Monster/Fusion	UFOroid Fighter	D Tier
+1104
+	Extra Deck	Monster/Fusion	Ultimate Ancient Gear Golem	D Tier
+1105
+	Extra Deck	Monster/Fusion	Ultimate Axon Kicker	D Tier
+1106
+	Extra Deck	Monster/Fusion	VW-Tiger Catapult	D Tier
+1107
+	Extra Deck	Monster/Fusion	VWXYZ-Dragon Catapult Cannon	D Tier
+1108
+	Extra Deck	Monster/Fusion	Wall Shadow (Anime)	D Tier
+1109
+	Extra Deck	Monster/Fusion	Worm Zero	D Tier
+1110
+	Extra Deck	Monster/Fusion	XY-Dragon Cannon	D Tier
+1111
+	Extra Deck	Monster/Fusion	XYZ-Dragon Cannon	D Tier
+1112
+	Extra Deck	Monster/Fusion	XZ-Tank Cannon	D Tier
+1113
+	Extra Deck	Monster/Fusion	YZ-Tank Dragon	D Tier
+1114
+	Extra Deck	Monster/Synchro	Accel Synchron	D Tier
+1115
+	Extra Deck	Monster/Synchro	Ally of Justice Decisive Armor	D Tier
+1116
+	Extra Deck	Monster/Synchro	Ally of Justice Field Marshal	D Tier
+1117
+	Extra Deck	Monster/Synchro	Ally of Justice Light Gazer	D Tier
+1118
+	Extra Deck	Monster/Synchro	Ancient Fairy Dragon	D Tier
+1119
+	Extra Deck	Monster/Synchro	Ancient Flamvell Deity	D Tier
+1120
+	Extra Deck	Monster/Synchro	Ancient Pixie Dragon	D Tier
+1121
+	Extra Deck	Monster/Synchro	Archfiend Zombie-Skull	D Tier
+1122
+	Extra Deck	Monster/Synchro	Archfiend's Call	D Tier
+1123
+	Extra Deck	Monster/Synchro	Armory Arm	D Tier
+1124
+	Extra Deck	Monster/Synchro	Assault Blackwing - Chidori the Rain Sprinkling	D Tier
+1125
+	Extra Deck	Monster/Synchro	Assault Blackwing - Onimaru the Divine Thunder	D Tier
+1126
+	Extra Deck	Monster/Synchro	Assault Blackwing - Sohaya the Rain Storm	D Tier
+1127
+	Extra Deck	Monster/Synchro	Avenging Knight Parshath	D Tier
+1128
+	Extra Deck	Monster/Synchro	Azure-Eyes Silver Dragon	D Tier
+1129
+	Extra Deck	Monster/Synchro	Black-Winged Dragon	D Tier
+1130
+	Extra Deck	Monster/Synchro	Blackfeather Darkrage Dragon	D Tier
+1131
+	Extra Deck	Monster/Synchro	Blackwing - Silverwind The Ascendant	D Tier
+1132
+	Extra Deck	Monster/Synchro	Blackwing Armed Wing	D Tier
+1133
+	Extra Deck	Monster/Synchro	Blackwing Armor Master	D Tier
+1134
+	Extra Deck	Monster/Synchro	Blue-Eyes Spirit Dragon	D Tier
+1135
+	Extra Deck	Monster/Synchro	Celestial Double Star Shaman	D Tier
+1136
+	Extra Deck	Monster/Synchro	Chaos King Archfiend	D Tier
+1137
+	Extra Deck	Monster/Synchro	Chevalier de Fleur	D Tier
+1138
+	Extra Deck	Monster/Synchro	Colossal Fighter	D Tier
+1139
+	Extra Deck	Monster/Synchro	Daigusto Eguls	D Tier
+1140
+	Extra Deck	Monster/Synchro	Daigusto Falcos	D Tier
+1141
+	Extra Deck	Monster/Synchro	Daigusto Gulldos	D Tier
+1142
+	Extra Deck	Monster/Synchro	Dark Strike Fighter (Anime)	D Tier
+1143
+	Extra Deck	Monster/Synchro	Dewloren, Tiger King of the Ice Barrier	D Tier
+1144
+	Extra Deck	Monster/Synchro	Dragunity Knight - Barcha	D Tier
+1145
+	Extra Deck	Monster/Synchro	Dragunity Knight - Gae Bulg	D Tier
+1146
+	Extra Deck	Monster/Synchro	Dragunity Knight - Gae Dearg	D Tier
+1147
+	Extra Deck	Monster/Synchro	Dragunity Knight - Trident	D Tier
+1148
+	Extra Deck	Monster/Synchro	Dragunity Knight - Vajrayana	D Tier
+1149
+	Extra Deck	Monster/Synchro	Exploder Dragonwing	D Tier
+1150
+	Extra Deck	Monster/Synchro	Fabled Leviathan	D Tier
+1151
+	Extra Deck	Monster/Synchro	Fabled Ragin	D Tier
+1152
+	Extra Deck	Monster/Synchro	Fabled Valkyrus	D Tier
+1153
+	Extra Deck	Monster/Synchro	Flamvell Uruquizas	D Tier
+1154
+	Extra Deck	Monster/Synchro	Formula Synchron	D Tier
+1155
+	Extra Deck	Monster/Synchro	Fortune Lady Every (Dark Synchro)	D Tier
+1156
+	Extra Deck	Monster/Synchro	Gaia Knight, the Force of Earth	D Tier
+1157
+	Extra Deck	Monster/Synchro	Genex Ally Axel	D Tier
+1158
+	Extra Deck	Monster/Synchro	Genex Ally Triarm	D Tier
+1159
+	Extra Deck	Monster/Synchro	Genex Ally Triforce	D Tier
+1160
+	Extra Deck	Monster/Synchro	Geo Genex	D Tier
+1161
+	Extra Deck	Monster/Synchro	Goyo Guardian	D Tier
+1162
+	Extra Deck	Monster/Synchro	Gungnir, Dragon of the Ice Barrier	D Tier
+1163
+	Extra Deck	Monster/Synchro	Hi-Speedroid Chanbara	D Tier
+1164
+	Extra Deck	Monster/Synchro	Hi-Speedroid Hagoita	D Tier
+1165
+	Extra Deck	Monster/Synchro	Hi-Speedroid Kendama	D Tier
+1166
+	Extra Deck	Monster/Synchro	Hi-Speedroid Puzzle	D Tier
+1167
+	Extra Deck	Monster/Synchro	Hundred Eyes Dragon	D Tier
+1168
+	Extra Deck	Monster/Synchro	Hundred Eyes Dragon (VG)	D Tier
+1169
+	Extra Deck	Monster/Synchro	Hydro Genex	D Tier
+1170
+	Extra Deck	Monster/Synchro	Hyper Psychic Blaster	D Tier
+1171
+	Extra Deck	Monster/Synchro	Infernity Doom Dragon	D Tier
+1172
+	Extra Deck	Monster/Synchro	Iron Chain Dragon	D Tier
+1173
+	Extra Deck	Monster/Synchro	Junk Archer	D Tier
+1174
+	Extra Deck	Monster/Synchro	Junk Berserker	D Tier
+1175
+	Extra Deck	Monster/Synchro	Junk Destroyer	D Tier
+1176
+	Extra Deck	Monster/Synchro	Junk Warrior	D Tier
+1177
+	Extra Deck	Monster/Synchro	Junk Warrior (Anime)	D Tier
+1178
+	Extra Deck	Monster/Synchro	Jurrac Giganoto	D Tier
+1179
+	Extra Deck	Monster/Synchro	Jurrac Meteor	D Tier
+1180
+	Extra Deck	Monster/Synchro	Jurrac Velphito	D Tier
+1181
+	Extra Deck	Monster/Synchro	Laval Dual Slasher	D Tier
+1182
+	Extra Deck	Monster/Synchro	Laval Stennon	D Tier
+1183
+	Extra Deck	Monster/Synchro	Laval the Greater	D Tier
+1184
+	Extra Deck	Monster/Synchro	Lavalval Dragon	D Tier
+1185
+	Extra Deck	Monster/Synchro	Lavalval Dragun	D Tier
+1186
+	Extra Deck	Monster/Synchro	Lightning Warrior	D Tier
+1187
+	Extra Deck	Monster/Synchro	Locomotion R-Genex	D Tier
+1188
+	Extra Deck	Monster/Synchro	Magical Android	D Tier
+1189
+	Extra Deck	Monster/Synchro	Majestic Red Dragon	D Tier
+1190
+	Extra Deck	Monster/Synchro	Majestic Star Dragon	D Tier
+1191
+	Extra Deck	Monster/Synchro	Mecha Phantom Beast Concoruda	D Tier
+1192
+	Extra Deck	Monster/Synchro	Mecha Phantom Beast Jaculuslan	D Tier
+1193
+	Extra Deck	Monster/Synchro	Metaphys Horus	D Tier
+1194
+	Extra Deck	Monster/Synchro	Mist Valley Thunder Lord	D Tier
+1195
+	Extra Deck	Monster/Synchro	Naturia Landoise	D Tier
+1196
+	Extra Deck	Monster/Synchro	Naturia Leodrake	D Tier
+1197
+	Extra Deck	Monster/Synchro	Nitro Warrior	D Tier
+1198
+	Extra Deck	Monster/Synchro	Power Tool Dragon	D Tier
+1199
+	Extra Deck	Monster/Synchro	Power Tool Mecha Dragon	D Tier
+1200
+	Extra Deck	Monster/Synchro	Powered Inzektron	D Tier
+1201
+	Extra Deck	Monster/Synchro	Red Dragon Archfiend	D Tier
+1202
+	Extra Deck	Monster/Synchro	Red Nova Dragon	D Tier
+1203
+	Extra Deck	Monster/Synchro	Red Rising Dragon	D Tier
+1204
+	Extra Deck	Monster/Synchro	Red-Eyes Zombie Necro Dragon	D Tier
+1205
+	Extra Deck	Monster/Synchro	Revived King Ha Des	D Tier
+1206
+	Extra Deck	Monster/Synchro	Shooting Riser Dragon	D Tier
+1207
+	Extra Deck	Monster/Synchro	Shooting Star Dragon	D Tier
+1208
+	Extra Deck	Monster/Synchro	Stardust Charge Warrior	D Tier
+1209
+	Extra Deck	Monster/Synchro	Stardust Dragon	D Tier
+1210
+	Extra Deck	Monster/Synchro	Stardust Spark Dragon	D Tier
+1211
+	Extra Deck	Monster/Synchro	T.G. Blade Blaster	D Tier
+1212
+	Extra Deck	Monster/Synchro	T.G. Blade Blaster (VG)	D Tier
+1213
+	Extra Deck	Monster/Synchro	T.G. Halberd Cannon (Anime)	D Tier
+1214
+	Extra Deck	Monster/Synchro	T.G. Hyper Librarian	D Tier	Was C Tier
+1215
+	Extra Deck	Monster/Synchro	T.G. Power Gladiator	D Tier
+1216
+	Extra Deck	Monster/Synchro	T.G. Recipro Dragonfly (Anime)	D Tier
+1217
+	Extra Deck	Monster/Synchro	T.G. Star Guardian	D Tier
+1218
+	Extra Deck	Monster/Synchro	T.G. Wonder Magician	D Tier
+1219
+	Extra Deck	Monster/Synchro	Tatsunoko	D Tier
+1220
+	Extra Deck	Monster/Synchro	The Fabled Kudabbi	D Tier
+1221
+	Extra Deck	Monster/Synchro	The Fabled Unicore	D Tier
+1222
+	Extra Deck	Monster/Synchro	Thermal Genex	D Tier
+1223
+	Extra Deck	Monster/Synchro	Thought Ruler Archfiend	D Tier
+1224
+	Extra Deck	Monster/Synchro	Turbo Warrior	D Tier
+1225
+	Extra Deck	Monster/Synchro	Vindikite R-Genex	D Tier
+1226
+	Extra Deck	Monster/Synchro	Vylon Alpha	D Tier
+1227
+	Extra Deck	Monster/Synchro	Vylon Delta	D Tier
+1228
+	Extra Deck	Monster/Synchro	Vylon Epsilon	D Tier
+1229
+	Extra Deck	Monster/Synchro	Vylon Omega	D Tier
+1230
+	Extra Deck	Monster/Synchro	Vylon Sigma	D Tier
+1231
+	Extra Deck	Monster/Synchro	White Aura Bihamut	D Tier
+1232
+	Extra Deck	Monster/Synchro	White Aura Dolphin	D Tier
+1233
+	Extra Deck	Monster/Synchro	White Aura Monoceros	D Tier
+1234
+	Extra Deck	Monster/Synchro	Windmill Genex	D Tier
+1235
+	Extra Deck	Monster/Synchro	X-Saber Urbellum	D Tier
+1236
+	Extra Deck	Monster/Synchro	X-Saber Wayne	D Tier
+1237
+	Extra Deck	Monster/Synchro	XX-Saber Hyunlei	D Tier
+1238
+	Extra Deck	Monster/Xyz	Archfiend's Ascent	D Tier
+1239
+	Extra Deck	Monster/Xyz	Black Ray Lancer	D Tier
+1240
+	Extra Deck	Monster/Xyz	Constellar Hyades	D Tier
+1241
+	Extra Deck	Monster/Xyz	Constellar Ptolemy M7	D Tier
+1242
+	Extra Deck	Monster/Xyz	Cyber Dragon Nova	D Tier
+1243
+	Extra Deck	Monster/Xyz	Daigusto Emeral	D Tier
+1244
+	Extra Deck	Monster/Xyz	Daigusto Phoenix	D Tier
+1245
+	Extra Deck	Monster/Xyz	Dark Rebellion Xyz Dragon	D Tier
+1246
+	Extra Deck	Monster/Xyz	Digital Bug Corebage	D Tier
+1247
+	Extra Deck	Monster/Xyz	Digital Bug Rhinosebus	D Tier
+1248
+	Extra Deck	Monster/Xyz	Digital Bug Scaradiator	D Tier
+1249
+	Extra Deck	Monster/Xyz	Ebon High Magician	D Tier
+1250
+	Extra Deck	Monster/Xyz	Evigishki Merrowgeist	D Tier	Was incorrectly labeled as "Monster/Fusion"
+1251
+	Extra Deck	Monster/Xyz	Evilswarm Bahamut	D Tier
+1252
+	Extra Deck	Monster/Xyz	Evilswarm Nightmare	D Tier
+1253
+	Extra Deck	Monster/Xyz	Evilswarm Ouroboros	D Tier
+1254
+	Extra Deck	Monster/Xyz	Gagaga Cowboy	D Tier
+1255
+	Extra Deck	Monster/Xyz	Gagagaga Magician	D Tier
+1256
+	Extra Deck	Monster/Xyz	Gaia Dragon, the Thunder Charger	D Tier
+1257
+	Extra Deck	Monster/Xyz	Galaxy-Eyes Full Armor Photon Dragon	D Tier
+1258
+	Extra Deck	Monster/Xyz	Gem-Knight Pearl	D Tier
+1259
+	Extra Deck	Monster/Xyz	Giant Soldier of Steel	D Tier
+1260
+	Extra Deck	Monster/Xyz	Grenosaurus	D Tier
+1261
+	Extra Deck	Monster/Xyz	Jinzo - Layered	D Tier
+1262
+	Extra Deck	Monster/Xyz	King of the Feral Imps	D Tier
+1263
+	Extra Deck	Monster/Xyz	Lavalval Chain	D Tier	Was C Tier
+1264
+	Extra Deck	Monster/Xyz	Lavalval Ignis	D Tier
+1265
+	Extra Deck	Monster/Xyz	Magi Magi ☆ Magician Gal	D Tier
+1266
+	Extra Deck	Monster/Xyz	Neo Galaxy-Eyes Photon Dragon	D Tier
+1267
+	Extra Deck	Monster/Xyz	Number F0: Utopic Future	D Tier
+1268
+	Extra Deck	Monster/Xyz	Number 3: Cicada King	D Tier
+1269
+	Extra Deck	Monster/Xyz	Number 9: Dyson Sphere	D Tier
+1270
+	Extra Deck	Monster/Xyz	Number 10: Illumiknight	D Tier
+1271
+	Extra Deck	Monster/Xyz	Number 13: Embodiment of Crime	D Tier
+1272
+	Extra Deck	Monster/Xyz	Number 17: Leviathan Dragon	D Tier
+1273
+	Extra Deck	Monster/Xyz	Number 20: Giga-Brilliant	D Tier
+1274
+	Extra Deck	Monster/Xyz	Number 29: Mannequin Cat	D Tier
+1275
+	Extra Deck	Monster/Xyz	Number 31: Embodiment of Punishment	D Tier
+1276
+	Extra Deck	Monster/Xyz	Number 32: Shark Drake	D Tier
+1277
+	Extra Deck	Monster/Xyz	Number 34: Terror-Byte	D Tier
+1278
+	Extra Deck	Monster/Xyz	Number 35: Ravenous Tarantula	D Tier
+1279
+	Extra Deck	Monster/Xyz	Number 39: Utopia	D Tier
+1280
+	Extra Deck	Monster/Xyz	Number 39: Utopia Roots	D Tier
+1281
+	Extra Deck	Monster/Xyz	Number C39: Utopia Ray	D Tier
+1282
+	Extra Deck	Monster/Xyz	Number C39: Utopia Ray V	D Tier
+1283
+	Extra Deck	Monster/Xyz	Number S39: Utopia Prime	D Tier
+1284
+	Extra Deck	Monster/Xyz	Number 42: Galaxy Tomahawk	D Tier
+1285
+	Extra Deck	Monster/Xyz	Number 47: Nightmare Shark	D Tier
+1286
+	Extra Deck	Monster/Xyz	Number 66: Master Key Beetle	D Tier
+1287
+	Extra Deck	Monster/Xyz	Number 77: The Seven Sins	D Tier
+1288
+	Extra Deck	Monster/Xyz	Number 78: Number Archive	D Tier
+1289
+	Extra Deck	Monster/Xyz	Number 84: Pain Gainer	D Tier
+1290
+	Extra Deck	Monster/Xyz	Number 85: Crazy Box	D Tier
+1291
+	Extra Deck	Monster/Xyz	Number 96: Dark Mist	D Tier
+1292
+	Extra Deck	Monster/Xyz	Number C96: Dark Storm	D Tier
+1293
+	Extra Deck	Monster/Xyz	Number 98: Antitopian	D Tier
+1294
+	Extra Deck	Monster/Xyz	Number 104: Masquerade	D Tier
+1295
+	Extra Deck	Monster/Xyz	Number XX: Utopic Dark Infinity	D Tier
+1296
+	Extra Deck	Monster/Xyz	Odd-Eyes Absolute Dragon	D Tier
+1297
+	Extra Deck	Monster/Xyz	Outer Entity Nyarla	D Tier
+1298
+	Extra Deck	Monster/Xyz	Paleozoic Anomalocaris	D Tier
+1299
+	Extra Deck	Monster/Xyz	Shark Caesar	D Tier
+1300
+	Extra Deck	Monster/Xyz	Starliege Lord Galaxion	D Tier
+1301
+	Extra Deck	Monster/Xyz	Starliege Paladynamo	D Tier
+1302
+	Extra Deck	Monster/Xyz	Vylon Disigma	D Tier
+1303
+	Extra Deck	Monster/Xyz	Zubaba General	D Tier
+1304
+	Extra Deck	Monster/Xyz	ZW - Dragonic Halberd	D Tier	Was B tier
