@@ -40,9 +40,11 @@ This project processes card data from a CSV file and a banlist file to categoriz
 - A custom banlist displaying numbers according to the DMVR system.
 - Properly colored cards based on classification.
 
-## Contributing
-Feel free to submit pull requests or report issues if you have suggestions for improvements.
-
 ## License
-This project is licensed under [License Name].
+This project is released under an open-source license for the code. However, please note:
+- This project is a fan-made tool and is not affiliated with, endorsed by, or sponsored by Konami.
+- Yu-Gi-Oh! and all related images, cards, and trademarks belong to Konami.
+- Users must obtain the necessary assets legally and ensure compliance with copyright laws.
+
+For open-source licensing, this project follows the **MIT License** for the codebase.
 
